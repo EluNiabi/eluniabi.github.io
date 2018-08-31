@@ -1,9 +1,16 @@
 	/* STYLESHEET - LOG IN ONLY */
 
-body {
-	margin: 0;
-	background: #D1BD99;
-}
 .login {
-	
+	width: 600px;
+	margin-top: 50px;
+	margin-bottom: 50px;
+	border-radius: 15px;
+	padding: 25px;
+	text-align: left;
+}
+.login table {
+	margin-top: 25px;
+	margin-bottom: 25px;
+	color: #EBD9C8;
+	font-size: 12px;
 }
