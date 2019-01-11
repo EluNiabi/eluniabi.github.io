@@ -14,7 +14,9 @@ h1, h2, h3 {
 	font-family: 'IM Fell English SC', serif;
 	color: #FEBB5E;
 	border-bottom: 2px solid #FEBB5E;
-	background: #27262C;
+	background: rgba(39,38,44,0.40);
+	padding: 5px;
+	padding-bottom: 0px;
 }
 a:link, a:visited, a:active {
 	color: #F19649;
