@@ -7,7 +7,8 @@
 body {
 	background: url('https://i.imgur.com/utRzeOg.png') center fixed;
 	background-size: cover;
-	font-family: 'IM Fell English SC', serif;
+	font-family: 'IM Fell English SC', 
+	font-size: 15px;
 }
 
    /* TOPBAR */
