@@ -9,6 +9,7 @@ body {
 	background-size: cover;
 	font-family: 'IM Fell English', serif;
 	color: white;
+	cursor: url(http://cur.cursors-4u.net/holidays/hol-3/hol200.cur), auto !important;
 }
 h1, h2, h3 {
 	font-family: 'IM Fell English SC', serif;
@@ -23,6 +24,7 @@ a:link, a:visited, a:active {
 }
 a:hover {
 	color: #FEBB5E;
+	cursor: url(http://cur.cursors-4u.net/holidays/hol-3/hol200.cur), auto !important;
 }
 
    /* TOPBAR */
