@@ -79,6 +79,11 @@ a:hover {
 	overflow: auto;
 	padding: 5px;
 }
+.copyright {
+	position: absolute;
+	right: 0;
+	bottom: 0;
+}
 textarea {
 	color: black;
 }
