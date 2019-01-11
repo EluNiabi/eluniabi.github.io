@@ -14,6 +14,12 @@ body {
 h1, h2, h3 {
 	font-family: 'IM Fell English SC', serif;
 }
+a:link, a:visited, a:active {
+	color: #F19649;
+}
+a:hover {
+	color: #AE5E3E;
+}
 
    /* TOPBAR */
 .topbar {
@@ -21,10 +27,16 @@ h1, h2, h3 {
 	color: white;
 	font-size: 15pt!important;
 }
+.badge {
+	background: #27262C;
+}
 
    /* NAVBAR */
 .navbar-header > a > img {
   	content: url('https://i.imgur.com/B6fIYkE.png');
+}
+.navbar {
+	background: #27262C;
 }
 
    /* SIDEBAR */
@@ -57,9 +69,6 @@ h1, h2, h3 {
 .scrolly {
 	height: 500px;
 	overflow: auto;
-	background: rgba(0,0,0,0.40);
+	background: rgba(39,38,44,0.40);
 	padding: 5px;
 }
-
-<div class="scrolly">
-<>
