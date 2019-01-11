@@ -20,7 +20,7 @@ h1, h2, h3 {
 	padding-bottom: 0px;
 }
 h1 {
-	background: ('https://i.imgur.com/B6fIYkE.png') no-repeat left:
+	background: url('https://i.imgur.com/B6fIYkE.png') no-repeat left;
 	padding-left: 200px;
 }
 a:link, a:visited, a:active {
