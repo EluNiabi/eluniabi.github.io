@@ -8,17 +8,19 @@ body {
 	background: url('https://i.imgur.com/utRzeOg.png') center fixed;
 	background-size: cover;
 	font-family: 'IM Fell English', serif;
-	font-size: 15pt!important;
 	color: white;
 }
 h1, h2, h3 {
 	font-family: 'IM Fell English SC', serif;
+	color: #FEBB5E;
+	border-bottom: 2px solid #FEBB5E;
+	background: #27262C;
 }
 a:link, a:visited, a:active {
 	color: #F19649;
 }
 a:hover {
-	color: #AE5E3E;
+	color: #FEBB5E;
 }
 
    /* TOPBAR */
