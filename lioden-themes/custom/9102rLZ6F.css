@@ -17,7 +17,7 @@ h1, h2, h3 {
 
    /* TOPBAR */
 .topbar {
-	background: black!important;
+	background: none!important;
 	color: white;
 	font-size: 15pt!important;
 }
@@ -41,6 +41,9 @@ h1, h2, h3 {
 .container {
 	background: none;
 	box-shadow: none;
+}
+.main {
+	background: none;
 }
 .col-md-9 {
 	background: none;
