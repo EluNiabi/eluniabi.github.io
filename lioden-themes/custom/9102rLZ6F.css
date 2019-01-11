@@ -80,7 +80,7 @@ a:hover {
 	padding: 5px;
 }
 .copyright {
-	position: absolute;
+	position: realitive;
 	right: 0;
 	bottom: 0;
 }
