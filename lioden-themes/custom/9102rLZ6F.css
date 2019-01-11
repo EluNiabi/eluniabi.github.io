@@ -26,9 +26,9 @@ body {
 
    /* SIDEBAR */
 .panel {
-	border: 1px solid black!important;
+	border: none!important;
 	border-radius: 10px;
-	background: black!important;
+	background: none!important;
 	color: white!important;
 	box-shadow: none!important;
 	font-size: 15pt!important;
