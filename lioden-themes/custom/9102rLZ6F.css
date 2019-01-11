@@ -79,3 +79,6 @@ a:hover {
 	background: rgba(39,38,44,0.40);
 	padding: 5px;
 }
+textarea {
+	color: black;
+}
