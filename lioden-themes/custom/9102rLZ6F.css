@@ -23,8 +23,13 @@ body {
    /* SIDEBAR */
 
    /* MAIN TABLES */
-.container {
+.container, .main {
 	background: none;
+	box-shadow: none;
+}
+#lion_image {
+	border-radius: 15px;
+	overflow: hidden;
 }
 
    /* MISC */
