@@ -1,11 +1,13 @@
 	/* Niabi's Custom Themes -  */
 
    /* FONT IMPORT */
+@import url('https://fonts.googleapis.com/css?family=IM+Fell+English+SC');
 
    /* MAIN */
 body {
 	background: url('https://i.imgur.com/utRzeOg.png') center fixed;
 	background-size: cover;
+	font-family: 'IM Fell English SC', serif;
 }
 
    /* TOPBAR */
@@ -21,5 +23,8 @@ body {
    /* SIDEBAR */
 
    /* MAIN TABLES */
+.container {
+	background: none;
+}
 
    /* MISC */
