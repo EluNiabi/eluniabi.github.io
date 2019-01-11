@@ -13,8 +13,9 @@ body {
 
    /* TOPBAR */
 .topbar {
-	background: black;
+	background: black!important;
 	color: white;
+	font-size: 15pt!important;
 }
 .table .top a:link
 
@@ -24,6 +25,14 @@ body {
 }
 
    /* SIDEBAR */
+.panel {
+	border: 1px solid black!important;
+	border-radius: 10px;
+	background: black:
+	color: white!important;
+	box-shadow: none!important;
+	font-size:10pt!important;
+}
 
    /* MAIN TABLES */
 .container {
