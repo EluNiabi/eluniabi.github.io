@@ -11,6 +11,9 @@ body {
 	font-size: 15pt!important;
 	color: white;
 }
+h1, h2, h3 {
+	font-family: 'IM Fell English SC', serif;
+}
 
    /* TOPBAR */
 .topbar {
@@ -52,7 +55,8 @@ body {
 .scrolly {
 	height: 500px;
 	overflow: auto;
-	background: rgba(0,0,0.40);
+	background: rgba(0,0,0,0.40);
+	padding: 5px;
 }
 
 <div class="scrolly">
