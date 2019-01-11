@@ -28,10 +28,10 @@ body {
 .panel {
 	border: 1px solid black!important;
 	border-radius: 10px;
-	background: black:
+	background: black!important;
 	color: white!important;
 	box-shadow: none!important;
-	font-size:10pt!important;
+	font-size: 10pt!important;
 }
 
    /* MAIN TABLES */
