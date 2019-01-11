@@ -68,6 +68,9 @@ a:hover {
 	border-radius: 15px;
 	overflow: hidden;
 }
+.breadcrumb {
+	background: none;
+}
 
    /* MISC */
 .scrolly {
