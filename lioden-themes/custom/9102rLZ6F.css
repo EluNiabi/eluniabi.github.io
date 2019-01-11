@@ -1,13 +1,13 @@
 	/* Niabi's Custom Themes -  */
 
    /* FONT IMPORT */
-@import url('https://fonts.googleapis.com/css?family=IM+Fell+English+SC');
+@import url('https://fonts.googleapis.com/css?family=IM+Fell+English|IM+Fell+English+SC');
 
    /* MAIN */
 body {
 	background: url('https://i.imgur.com/utRzeOg.png') center fixed;
 	background-size: cover;
-	font-family: 'IM Fell English SC';
+	font-family: 'IM Fell English', serif;
 	font-size: 15pt!important;
 }
 
@@ -31,7 +31,7 @@ body {
 	background: none!important;
 	color: white!important;
 	box-shadow: none!important;
-	font-size: 15pt!important;
+	font-family: Verdana;
 }
 
    /* MAIN TABLES */
