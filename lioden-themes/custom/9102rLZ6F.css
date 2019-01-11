@@ -21,11 +21,10 @@ h1, h2, h3 {
 	color: white;
 	font-size: 15pt!important;
 }
-.table .top a:link
 
    /* NAVBAR */
 .navbar-header > a > img {
-  	content: url('https://static.lioden.com/img/layout/logo-full-2.png');
+  	content: url('https://i.imgur.com/B6fIYkE.png');
 }
 
    /* SIDEBAR */
