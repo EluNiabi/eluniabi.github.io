@@ -11,9 +11,11 @@ body {
 h1, h2, h3 {
 }
 a:link, a:visited, a:active {
+	color: #69C7D2;
 }
 a:hover {
 	cursor: url(http://cur.cursors-4u.net/holidays/hol-4/hol394.cur), auto !important;
+	color: #549fa8;
 }
 
    /* TOPBAR */
@@ -22,8 +24,10 @@ a:hover {
 	border-radius: 0 0 10px 10px;
 }
 .table .top a:link, .table .top a:active, .table .top a:visited, .table th a:link, .table th a:active, .table th a:visited , .topbar a:link, .topbar a:visited, .topbar a:active, .table .bottom a:link, .table .bottom a:active, .table .bottom a:visited {
+	color: #69C7D2;
 }
 .table .top a:hover, .table th a:hover, .topbar a:hover, .table .bottom a:hover {
+	color: #549fa8;
 }
 .badge {
 }
@@ -37,9 +41,11 @@ a:hover {
 	border-bottom: 5px solid #454f63;
 }
 .navbar-default .navbar-nav > li > a {
+	color: #69C7D2!important;
 }
 .navbar-default .navbar-nav li a:hover {
 	background: #606f8a!important;
+	color: #549fa8!important;
 }
 
    /* SIDEBAR */
@@ -88,11 +94,8 @@ a:hover {
 .breadcrumb li.active {
 }
 .table {
-	border: 1px solid #000!important;
+	border: none!important;
 	border-radius: 10px;
-}
-.table, .table #player, .table #about, .table #pride, .table #allies {
-	border: none;
 }
 .table .top, .table th, .table .bottom {
 	background: #f3f5f9;
