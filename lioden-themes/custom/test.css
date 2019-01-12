@@ -102,7 +102,7 @@ a:hover {
 	border-radius: 10px;
 }
 .table .top, .table th, .table .bottom {
-	background: #6e7f9e;
+	background: #8a9fc6;
 	border-radius: 10px;
 }
 .table .right, td, .table .right_odd {
@@ -110,7 +110,7 @@ a:hover {
 .inner-table .right {
 }
 div .left {
-	background: #454f63;
+	background: #8a9fc6;
 }
 .left img {
 }
@@ -119,7 +119,8 @@ div .left {
 .inner-table .left {
 }
 .cave-grid, .mound-grid {
-	background: #d0d8e8!important;
+	background: #8a9fc6;!important;
+	border: none!important;
 }
 
    /* MISC */
