@@ -116,6 +116,7 @@ a:hover {
 	border-radius: 10px;
 }
 .table .right, td, .table .right_odd {
+	background: #f3f5f9;
 }
 .inner-table .right {
 }
@@ -125,6 +126,7 @@ div .left {
 .left img {
 }
 .table .left {
+	background: #e7ebf3;
 }
 .inner-table .left {
 }
@@ -133,10 +135,10 @@ div .left {
 	border: none!important;
 }
 .cave-grid a, .mound-grid a {
-	color: #e1f3f6;
+	color: #e1f3f6!important;
 }
 .cave-grid a:hover, .mound-grid a:hover {
-	color: #f3f8fe;
+	color: #f3f8fe!important;
 }
 
    /* MISC */
