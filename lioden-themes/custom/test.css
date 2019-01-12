@@ -168,3 +168,23 @@ div .left {
 textarea {
 	color: black;
 }
+.attack-lost {
+}
+.attack-won {
+}
+.alert {
+}
+.alert-succes {
+}
+.new-msg {
+}
+
+ul.bottomlinks a:link, a:visited, a:active {
+	color: #F19649;
+	text-decoration: none;
+}
+ul.bottomlinks a:hover {
+	color: #FEBB5E;
+	cursor: url(http://cur.cursors-4u.net/holidays/hol-3/hol200.cur), auto !important;
+	text-decoration: none;
+}
