@@ -90,7 +90,7 @@ a:hover {
 	color: white;
 }
 .chat_dark {
-	background: #27262C!important;
+	background: #3f3e47!important;
 	color: white;
 }
 #txtChatMessage {
@@ -162,6 +162,7 @@ div .left {
 .copyright {
 	position: fixed;
 	overflow: hidden;
+	background: #27262C;
 	padding: 5px;
 	right: 0;
 	bottom: 0;
