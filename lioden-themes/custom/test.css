@@ -12,11 +12,11 @@ body {
 h1, h2, h3 {
 }
 a:link, a:visited, a:active {
-	color: #69C7D2;
+	color: #90d6de;
 }
 a:hover {
 	cursor: url(http://cur.cursors-4u.net/holidays/hol-4/hol394.cur), auto !important;
-	color: #8fbef5;
+	color: #bed9f9;
 }
 
    /* TOPBAR */
