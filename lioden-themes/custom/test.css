@@ -51,6 +51,9 @@ a:hover {
 
    /* SIDEBAR */
 .panel {
+	background: #454f63!important;
+	border: none!important;
+	box-shadow: none!important;
 }
 .sidebar h3 {
 }
@@ -99,14 +102,15 @@ a:hover {
 	border-radius: 10px;
 }
 .table .top, .table th, .table .bottom {
-	background: #f3f5f9;
+	background: #454f63;
+	border-radius: 10px;
 }
 .table .right, td, .table .right_odd {
 }
 .inner-table .right {
 }
 div .left {
-	background: #d0d8e8;
+	background: #454f63;
 }
 .left img {
 }
