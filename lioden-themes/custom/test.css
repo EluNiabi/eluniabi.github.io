@@ -87,11 +87,13 @@ a:hover {
 }
 .table {
 	border: 1px solid #000!important;
+	border-radius: 10px;
 }
 .table {
 	border: 1px solid #000;
 }
 .table .top, .table th {
+	background: white;
 }
 .table .bottom {
 }
