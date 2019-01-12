@@ -89,7 +89,7 @@ a:hover {
 	border: 1px solid #000!important;
 	border-radius: 10px;
 }
-.table {
+.table, .table #player, .table #auto, .table #pride {
 	border: 1px solid #000;
 }
 .table .top, .table th {
