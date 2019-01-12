@@ -20,11 +20,11 @@ h1, h2, h3 {
 }
 a:link, a:visited, a:active {
 	color: #F19649;
-	text-decoration: underline;
 }
 a:hover {
 	color: #FEBB5E;
 	cursor: url(http://cur.cursors-4u.net/holidays/hol-3/hol200.cur), auto !important;
+	text-decoration: underline;
 }
 
    /* TOPBAR */
@@ -94,6 +94,12 @@ a:hover {
 	background: #27262C!important;
 	color: white;
 }
+#txtChatMessage {
+	background: #fff;
+	border: 1px solid #000;
+	color: #000;
+	border-radius: 4px;
+}
 
    /* MAIN TABLES */
 .container {
@@ -109,8 +115,23 @@ a:hover {
 #lion_image {
 	border-radius: 15px;
 	overflow: hidden;
+	border: 1px solid #000;
+}
+#lion_image > div {
+	background: #4b4955;
+	background-image: none!important;
 }
 .breadcrumb {
+	background: none;
+}
+.table {
+	border: none;
+}
+.table .top, .table th, .table .bottom {
+	background: #27262C;
+	border-radius: 10px;
+}
+.table .right, td, .table .right_odd {
 	background: none;
 }
 
