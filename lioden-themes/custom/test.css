@@ -83,8 +83,6 @@ a:hover {
 }
 
    /* MAIN TABLES */
-.container {
-}
 .main {
 	background: #d0d8e8;
 	border: none;
@@ -99,13 +97,9 @@ a:hover {
 	border-radius: 10px;
 	overflow: hidden;
 }
-#lion_image > div {
-}
 .breadcrumb {
 	background: #f3f5f9;
 	border: none;
-}
-.breadcrumb li.active {
 }
 .table {
 	border: none!important;
@@ -123,8 +117,6 @@ a:hover {
 }
 div .left {
 	background: #8a9fc6;
-}
-.left img {
 }
 a div .left {
 	color: #e1f3f6!important;
