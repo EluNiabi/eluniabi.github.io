@@ -115,6 +115,9 @@ a:hover {
 .table .top, .table th, .table .bottom {
 	background: #8a9fc6;
 }
+.table .left {
+	background: #e7ebf3;
+}
 .table .right, td, .table .right_odd, .table .right_cub {
 	background: #f3f5f9;
 }
@@ -128,9 +131,6 @@ a div .left {
 }
 a:hover div .left {
 	color: #f3f8fe!important;
-}
-.table .left {
-	background: #e7ebf3;
 }
 .cave-grid, .mound-grid {
 	background: #8a9fc6;!important;
@@ -156,29 +156,29 @@ a:hover .cave-grid, a:hover .mound-grid {
 	border: 1px solid #454f63;
 	color: white;
 }
-textarea, input[type="text"] {
-}
 input[type="submit"], input[type="button"] {
+	color: #69C7D2!important;
+	background: #6e7f9e!important;
+	border: 1px solid black;
+	box-shadow: none!important;
+	text-shadow: none!important;
 }
 input[type="submit"]:hover, input[type="button"]:hover {
-	cursor: url(http://cur.cursors-4u.net/holidays/hol-4/hol394.cur), auto !important;
-}
-ul.bottomlinks a:link, a:visited, a:active {
-}
-ul.bottomlinks a:hover {
+	background: #606f8a!important;
+	color: #8fbef5!important;
+	border: 1px solid black;
+	box-shadow: none!important;
+	text-shadow: none!important;
 	cursor: url(http://cur.cursors-4u.net/holidays/hol-4/hol394.cur), auto !important;
 }
 .item {
+	background: #f3f5f9;
+	border: 1px solid black;
+	color: black;
 }
 .item-header {
-}
-.slider {
-}
-.slider:before {
-}
-input:checked + .slider {
-}
-input:checked + .slider:before {
+	background: #e7ebf3;
+	color: black;
 }
 .box-expandy {
 	height: 100px;
