@@ -1,0 +1,236 @@
+	/* Niabi's Custom Themes -  */
+/* Layout theme done by Niabi (#45813). */
+/* Do not steal or claim as your own. */
+/* This code was made for #9102 and can only be used by this player, in which they can use it on both their main and side account. */
+
+   /* FONT IMPORT */
+@import url('https://fonts.googleapis.com/css?family=IM+Fell+English|IM+Fell+English+SC');
+
+   /* MAIN */
+body {
+	background: url('https://i.imgur.com/utRzeOg.png') center fixed;
+	background-size: cover;
+	font-family: 'IM Fell English', serif;
+	color: white;
+	cursor: url(http://cur.cursors-4u.net/holidays/hol-3/hol200.cur), auto !important;
+}
+h1, h2, h3 {
+	font-family: 'IM Fell English SC', serif;
+	color: #FEBB5E;
+	border-bottom: 2px solid #FEBB5E;
+	padding: 5px;
+	padding-bottom: 0px;
+	text-align: center;
+}
+a:link, a:visited, a:active {
+	color: #F19649;
+}
+a:hover {
+	cursor: url(http://cur.cursors-4u.net/holidays/hol-3/hol200.cur), auto !important;
+	color: #FEBB5E;
+}
+
+   /* TOPBAR */
+.topbar {
+	background: #27262C!important;
+	color: white;
+}
+.table .top a:link, .table .top a:active, .table .top a:visited, .table th a:link, .table th a:active, .table th a:visited , .topbar a:link, .topbar a:visited, .topbar a:active, .table .bottom a:link, .table .bottom a:active, .table .bottom a:visited {
+	color: #F19649;
+}
+.table .top a:hover, .table th a:hover, .topbar a:hover, .table .bottom a:hover {
+	color: #FEBB5E;
+	cursor: url(http://cur.cursors-4u.net/holidays/hol-3/hol200.cur), auto !important;
+}
+.badge {
+	background: #F19649;
+}
+
+	/* NAVBAR */
+.navbar-header > a > img {
+  	content: url('https://i.imgur.com/B6fIYkE.png');
+}
+.navbar {
+	background: #27262C;
+}
+.navbar-default .navbar-nav > li > a {
+	color: #F19649;
+	font-weight: normal;
+}
+.navbar-default .navbar-nav li a:hover {
+	background: none repeat scroll 0% 0% #0f0e11;
+	color: #FEBB5E;
+}
+
+   /* SIDEBAR */
+.panel {
+	border: none!important;
+	border-radius: 10px;
+	background: none!important;
+	color: white!important;
+	box-shadow: none!important;
+}
+.sidebar h3 {
+	color: #FEBB5E;
+}
+.progress {
+	background: #4b4955;
+	border: 1px solid #000;
+	color: white!important;
+}
+.progress div {
+	color: white;
+}
+.progress-bar-warning, .progress-bar-danger, .progress-bar-success, .progress-bar {
+	background: #27262C;
+	color: white!important;
+}
+.chatContainer {
+	border: 1px solid #000;
+}
+.chat_light {
+	background: #4b4955!important;
+	color: white;
+}
+.chat_dark {
+	background: #3f3e47!important;
+	color: white;
+}
+#txtChatMessage {
+	background: #f2f2f2;
+	border: 1px solid #000;
+	color: #000;
+	border-radius: 4px;
+}
+
+   /* MAIN TABLES */
+.container {
+	background: none;
+	box-shadow: none;
+}
+.main {
+	background: rgba(39,38,44,0.40);
+}
+.col-md-9 {
+	background: none;
+}
+#lion_image {
+	border-radius: 15px;
+	overflow: hidden;
+	border: 1px solid #000;
+}
+#lion_image > div {
+	background: #4b4955;
+	background-image: none!important;
+}
+.breadcrumb {
+	background: none;
+}
+.breadcrumb li.active {
+	color: white!important;
+}
+.table {
+	border: none;
+}
+.table .top, .table th {
+	background: #27262C;
+	border-radius: 10px;
+}
+.table .bottom {
+	background: none;
+}
+.table .right, td, .table .right_odd {
+	background: none;
+}
+.inner-table .right {
+	background: #4b4955!important;
+}
+div .left {
+	background: #27262C!important;
+}
+.left img {
+	border-radius: 4px;
+	border: 1px solid #000;
+}
+.table .left {
+	background: none!important;
+}
+.inner-table .left {
+	background: #3f3e47!important;
+}
+.cave-grid, .mound-grid {
+	background: #27262C!important;
+	border-radius: 10px;
+	border: 1px solid #000!important;
+}
+
+   /* MISC */
+.expandy {
+	height: 150px;
+	overflow: auto;
+	padding: 5px;
+	transition: 2s;
+}
+.expandy:hover {
+	height: 500px;
+}
+.copyright {
+	position: fixed;
+	overflow: hidden;
+	background: #27262C;
+	padding: 5px;
+	right: 0;
+	bottom: 0;
+	z-index: 10;
+	border-radius: 5px;
+	border: 1px solid black;
+}
+textarea, input[type="text"] {
+	color: black;
+	background: #f2f2f2;
+}
+input[type="submit"], input[type="button"] {
+	background: #3f3e47!important;
+	border: 1px solid #000;
+	text-shadow: none!important;
+	color: white;
+	font-weight: normal;
+	font-size: 11px;
+}
+input[type="submit"]:hover, input[type="button"]:hover {
+	background: #4b4955!important;
+	border: 1px solid #000;
+	text-shadow: none!important;
+	color: white;
+	font-weight: normal;
+	font-size: 11px;
+}
+ul.bottomlinks a:link, a:visited, a:active {
+	color: #F19649;
+	text-decoration: none;
+}
+ul.bottomlinks a:hover {
+	color: #FEBB5E;
+	cursor: url(http://cur.cursors-4u.net/holidays/hol-3/hol200.cur), auto !important;
+	text-decoration: none;
+}
+.item {
+	border: 1px solid black;
+	background: #27262C!important;
+}
+.item-header {
+	background: #27262C!important;
+	color: white!important;
+}
+.slider {
+	background: #3f3e47!important;
+}
+.slider:before {
+	background: #4b4955!important;
+}
+input:checked + .slider {
+	background: #3f3e47!important;
+}
+input:checked + .slider:before {
+	background: #FEBB5E!important;
+}
