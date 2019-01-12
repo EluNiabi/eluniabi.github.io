@@ -82,6 +82,8 @@ a:hover {
 #lion_image > div {
 }
 .breadcrumb {
+	background: #f3f5f9;
+	border: none;
 }
 .breadcrumb li.active {
 }
@@ -90,19 +92,10 @@ a:hover {
 	border-radius: 10px;
 }
 .table, .table #player, .table #about, .table #pride, .table #allies {
-	border: 1px solid #000;
+	border: none;
 }
-.table #about .top {
-	border-right: 1px solid #000!important;
-}
-.table #about .right {
-	border-right: 1px solid #000!important;
-}
-.table .top, .table th {
-	background: white;
-}
-.table .bottom {
-	background: white;
+.table .top, .table th, .table .bottom {
+	background: #f3f5f9;
 }
 .table .right, td, .table .right_odd {
 }
