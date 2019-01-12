@@ -132,6 +132,12 @@ div .left {
 	background: #8a9fc6;!important;
 	border: none!important;
 }
+.cave-grid a, .mound-grid a {
+	color: #a4dde4;
+}
+.cave-grid a:hover, .mound-grid a:hover {
+	color: #bed9f9;
+}
 
    /* MISC */
 .copyright {
