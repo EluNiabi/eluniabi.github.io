@@ -68,6 +68,15 @@ a:hover {
 .sidebar h3 {
 	color: #FEBB5E;
 }
+.progress {
+	background: #27262C;
+	border: 1px solid #000;
+	color: #fff;
+	font-family: Verdana;
+}
+.progress-bar-warning, .progress-bar-danger, .progress-bar-success, .progress-bar {
+	background: #F19649;
+}
 
    /* MAIN TABLES */
 .container {
