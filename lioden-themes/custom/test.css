@@ -17,6 +17,7 @@ h1, h2, h3 {
 	border-bottom: 2px solid #FEBB5E;
 	padding: 5px;
 	padding-bottom: 0px;
+	text-align: center;
 }
 a:link, a:visited, a:active {
 	color: #F19649;
