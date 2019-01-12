@@ -152,6 +152,10 @@ div .left {
 .inner-table .left {
 	background: #3f3e47!important;
 }
+.cave-grid, .mound-grid {
+	background: #27262C;
+	border-radius: 10px;
+}
 
    /* MISC */
 .scrolly {
