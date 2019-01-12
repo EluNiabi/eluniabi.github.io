@@ -119,15 +119,21 @@ a:hover {
 	background: #f3f5f9;
 }
 #about .right, #player .right {
-	background: none!important;
+	background: none;
 }
 .inner-table .right {
-	background: #f3f5f9;
+	background: #f3f5f9!important;
 }
 div .left {
 	background: #8a9fc6;
 }
 .left img {
+}
+div .left a {
+	color: #e1f3f6!important;
+}
+div .left a:hover {
+	color: #f3f8fe!important;
 }
 .table .left {
 	background: #e7ebf3;
