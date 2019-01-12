@@ -237,4 +237,5 @@ input:checked + .slider:before {
 }
 .hidden-xs div {
 	border: 1px solid white!important;
+	background: rgba(39,38,44,0.40)!important;
 }
