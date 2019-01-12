@@ -73,13 +73,11 @@ a:hover {
 .progress-bar-warning, .progress-bar-danger, .progress-bar-success, .progress-bar {
 	background: #6e7f9e!important;
 }
-.chatContainer {
-}
 .chat_light {
+	background: #f3f5f9;
 }
 .chat_dark {
-}
-#txtChatMessage {
+	background: #e7ebf3;
 }
 
    /* MAIN TABLES */
