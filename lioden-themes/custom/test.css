@@ -15,7 +15,7 @@ a:link, a:visited, a:active {
 }
 a:hover {
 	cursor: url(http://cur.cursors-4u.net/holidays/hol-4/hol394.cur), auto !important;
-	color: #96d7df;
+	color: #8fbef5;
 }
 
    /* TOPBAR */
@@ -27,7 +27,7 @@ a:hover {
 	color: #69C7D2;
 }
 .table .top a:hover, .table th a:hover, .topbar a:hover, .table .bottom a:hover {
-	color: #96d7df;
+	color: #8fbef5;
 }
 .badge {
 	background: #454f63!important;
@@ -46,12 +46,12 @@ a:hover {
 }
 .navbar-default .navbar-nav li a:hover {
 	background: #606f8a!important;
-	color: #96d7df!important;
+	color: #8fbef5!important;
 }
 
    /* SIDEBAR */
 .panel {
-	background: #454f63!important;
+	background: #6e7f9e!important;
 	border: none!important;
 	box-shadow: none!important;
 }
@@ -102,7 +102,7 @@ a:hover {
 	border-radius: 10px;
 }
 .table .top, .table th, .table .bottom {
-	background: #454f63;
+	background: #6e7f9e;
 	border-radius: 10px;
 }
 .table .right, td, .table .right_odd {
