@@ -135,12 +135,6 @@ a:hover {
 .table .right, td, .table .right_odd {
 	background: none;
 }
-.table .left {
-	background: none;
-}
-.inner-table .left {
-	backgroundL #3f3e47!important;
-}
 .inner-table .right {
 	background: #4b4955!important;
 }
@@ -151,7 +145,12 @@ div .left {
 	border-radius: 4px;
 	border: 1px solid #000;
 }
-
+.table .left {
+	background: none;
+}
+.inner-table .left {
+	backgroundL #3f3e47!important;
+}
 
    /* MISC */
 .scrolly {
