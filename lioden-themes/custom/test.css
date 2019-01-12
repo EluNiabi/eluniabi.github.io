@@ -23,8 +23,8 @@ a:link, a:visited, a:active {
 	color: #F19649;
 }
 a:hover {
-	color: #FEBB5E;
 	cursor: url(http://cur.cursors-4u.net/holidays/hol-3/hol200.cur), auto !important;
+	color: #FEBB5E;
 }
 
    /* TOPBAR */
@@ -179,6 +179,8 @@ div .left {
 	right: 0;
 	bottom: 0;
 	z-index: 10;
+	border-radius: 5px;
+	border: 1px solid black;
 }
 textarea, input[type="text"] {
 	color: black;
@@ -211,20 +213,21 @@ ul.bottomlinks a:hover {
 }
 .item {
 	border: 1px solid black;
-	background: #4b4955!important;
+	background: #27262C!important;
 }
 .item-header {
-	background: #3f3e47!important;
+	background: #27262C!important;
 	color: white!important;
 }
 .slider {
-	background: red!important;
+	background: #4b4955!important;
 }
 .slider:before {
-	background: blue!important;
+	background: #F19649!important;
 }
 input:checked + .slider {
-	background: yellow!important;
+	background: #4b4955!important;
 }
 input:checked + .slider:before {
+	background: #FEBB5E!important;
 }
