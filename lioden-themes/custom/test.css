@@ -20,6 +20,7 @@ h1, h2, h3 {
 }
 a:link, a:visited, a:active {
 	color: #F19649;
+	text-decoration: underline;
 }
 a:hover {
 	color: #FEBB5E;
@@ -56,7 +57,7 @@ a:hover {
 }
 .navbar-default .navbar-nav li a:hover {
 	background: none repeat scroll 0% 0% #0f0e11;
-	color: #FEBB5E;
+	color: #F19649;
 }
 
    /* SIDEBAR */
@@ -81,6 +82,17 @@ a:hover {
 .progress-bar-warning, .progress-bar-danger, .progress-bar-success, .progress-bar {
 	background: #27262C;
 	color: white!important;
+}
+.chatContainer {
+	border: 1px solid #000;
+}
+.chat_light {
+	background: #4b4955!important;
+	color: white;
+}
+.chat_dark {
+	background: #27262C!important;
+	color: white;
 }
 
    /* MAIN TABLES */
