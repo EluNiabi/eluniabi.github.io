@@ -170,6 +170,7 @@ div .left {
 	overflow: auto;
 	padding: 5px;
 	transition: 2s;
+	text-align: left;
 }
 .expandy:hover {
 	height: 500px;
