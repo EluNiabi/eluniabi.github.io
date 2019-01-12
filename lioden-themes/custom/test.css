@@ -69,10 +69,13 @@ a:hover {
 	color: #FEBB5E;
 }
 .progress {
-	background: #3f3e47;
+	background: #4b4955;
 	border: 1px solid #000;
 	color: white!important;
 	font-family: Verdana;
+}
+.progress div {
+	color: white;
 }
 .progress-bar-warning, .progress-bar-danger, .progress-bar-success, .progress-bar {
 	background: #27262C;
