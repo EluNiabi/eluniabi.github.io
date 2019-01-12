@@ -58,15 +58,15 @@ a:hover {
 }
 
    /* SIDEBAR */
-.row {
-	background: red;
-}
 .panel {
 	border: none!important;
 	border-radius: 10px;
 	background: none!important;
 	color: white!important;
 	box-shadow: none!important;
+}
+.sidebar h3 {
+	color: #FEBB5E;
 }
 
    /* MAIN TABLES */
