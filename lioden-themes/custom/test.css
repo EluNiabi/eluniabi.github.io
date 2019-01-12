@@ -110,6 +110,7 @@ a:hover {
 .table {
 	border: none!important;
 	border-radius: 10px;
+	overflow: hidden;
 }
 .table .top, .table th, .table .bottom {
 	background: #8a9fc6;
@@ -117,7 +118,7 @@ a:hover {
 .table .right, td, .table .right_odd, .table .right_cub {
 	background: #f3f5f9;
 }
-.table #about .right, .table #player .right {
+#about .right, #player .right {
 	background: none!important;
 }
 .inner-table .right {
