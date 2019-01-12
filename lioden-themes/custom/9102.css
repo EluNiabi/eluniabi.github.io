@@ -235,3 +235,6 @@ input:checked + .slider {
 input:checked + .slider:before {
 	background: #FEBB5E!important;
 }
+.hidden-xs div {
+	border: 1px solid white!important;
+}
