@@ -76,8 +76,11 @@ a:hover {
 	border-radius: 0 0 0 10px;
 }
 #lion_image {
+	border-radius: 10px;
+	border: 1px solid #000;
 }
 #lion_image > div {
+	background: none!important;
 }
 .breadcrumb {
 }
@@ -149,6 +152,9 @@ input:checked + .slider:before {
 	overflow: auto;
 	transition: 2s;
 	border: 1px solid #000;
+	text-align: left;
+	padding: 5px;
+	border-radius: 10px;
 }
 .box-expandy:hover {
 	height: 500px;
