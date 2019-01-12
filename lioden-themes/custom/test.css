@@ -25,10 +25,10 @@ a:hover {
 	border-radius: 0 0 10px 10px;
 }
 .table .top a:link, .table .top a:active, .table .top a:visited, .table th a:link, .table th a:active, .table th a:visited , .topbar a:link, .topbar a:visited, .topbar a:active, .table .bottom a:link, .table .bottom a:active, .table .bottom a:visited {
-	color: #a4dde4;
+	color: #e1f3f6;
 }
 .table .top a:hover, .table th a:hover, .topbar a:hover, .table .bottom a:hover {
-	color: #bed9f9;
+	color: #f3f8fe;
 }
 .badge {
 	background: #454f63!important;
@@ -57,10 +57,10 @@ a:hover {
 	box-shadow: none!important;
 }
 .panel a {
-	color: #a4dde4;
+	color: #e1f3f6;
 }
 .panel a:hover {
-	color: #bed9f9;
+	color: #f3f8fe;
 }
 .sidebar h3 {
 }
@@ -133,10 +133,10 @@ div .left {
 	border: none!important;
 }
 .cave-grid a, .mound-grid a {
-	color: #a4dde4;
+	color: #e1f3f6;
 }
 .cave-grid a:hover, .mound-grid a:hover {
-	color: #bed9f9;
+	color: #f3f8fe;
 }
 
    /* MISC */
