@@ -170,7 +170,7 @@ textarea, input[type="text"] {
 	color: black;
 	background: #f2f2f2;
 }
-.input[type="submit"], input[type="button"] {
+input[type="submit"], input[type="button"] {
 	background: #3f3e47!important;
 	border: 1px solid #000;
 	text-shadow: none!important;
@@ -178,7 +178,7 @@ textarea, input[type="text"] {
 	font-weight: normal;
 	font-size: 11px;
 }
-.input[type="submit"]:hover, input[type="button"]:hover {
+input[type="submit"]:hover, input[type="button"]:hover {
 	background: #4b4955!important;
 	border: 1px solid #000;
 	text-shadow: none!important;
