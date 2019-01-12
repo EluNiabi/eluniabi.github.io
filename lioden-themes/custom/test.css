@@ -32,6 +32,8 @@ a:hover {
 }
 .navbar {
 	background: #6e7f9e;
+	border-top: 4px solid #454f63;
+	border-bottom: 5px solid #454f63;
 }
 .navbar-default .navbar-nav > li > a {
 }
@@ -65,9 +67,7 @@ a:hover {
 .main {
 	background: #d0d8e8;
 	border: 1px solid #454f63;
-	border-top: 4px solid #454f63;
 	border-radius: 10px;
-	overflow: hidden;
 }
 .col-md-9 {
 	background: #dbe2ed;
