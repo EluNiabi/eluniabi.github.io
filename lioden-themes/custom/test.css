@@ -77,10 +77,10 @@ a:hover {
 }
 #lion_image {
 	border-radius: 10px;
-	border: 1px solid #000;
+	overflow: hidden;
 }
 #lion_image > div {
-	background: none!important;
+	border: 1px solid #000;
 }
 .breadcrumb {
 }
