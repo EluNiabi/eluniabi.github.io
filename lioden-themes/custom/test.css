@@ -144,3 +144,12 @@ input:checked + .slider {
 }
 input:checked + .slider:before {
 }
+.box-expandy {
+	height: 100px;
+	overflow: auto;
+	transition: 2s;
+	border: 1px solid #000;
+}
+.box-expandy:hover {
+	height: 500px;
+}
