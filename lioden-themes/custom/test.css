@@ -6,12 +6,14 @@
 body {
 	background: url('https://static.pexels.com/photos/258112/pexels-photo-258112.jpeg') center fixed;
 	background-size: cover;
+	cursor: url(http://cur.cursors-4u.net/holidays/hol-4/hol394.cur), auto !important;
 }
 h1, h2, h3 {
 }
 a:link, a:visited, a:active {
 }
 a:hover {
+	cursor: url(http://cur.cursors-4u.net/holidays/hol-4/hol394.cur), auto !important;
 }
 
    /* TOPBAR */
