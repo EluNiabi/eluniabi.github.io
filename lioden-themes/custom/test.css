@@ -73,7 +73,7 @@ a:hover {
 }
 .col-md-9 {
 	background: #dbe2ed;
-	border-radius: 0 0 10px 0;
+	border-radius: 0 0 0 10px;
 }
 #lion_image {
 }
@@ -95,6 +95,7 @@ a:hover {
 .inner-table .right {
 }
 div .left {
+	background: #d0d8e8;
 }
 .left img {
 }
@@ -103,6 +104,7 @@ div .left {
 .inner-table .left {
 }
 .cave-grid, .mound-grid {
+	background: #d0d8e8!important;
 }
 
    /* MISC */
@@ -116,6 +118,7 @@ div .left {
 	border-radius: 5px;
 	background: #6e7f9e;
 	border: 1px solid #454f63;
+	color: white;
 }
 textarea, input[type="text"] {
 }
