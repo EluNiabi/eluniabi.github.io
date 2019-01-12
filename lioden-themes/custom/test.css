@@ -99,7 +99,8 @@ div .left {
 	bottom: 0;
 	z-index: 10;
 	border-radius: 5px;
-	background: ;
+	background: black;
+	color: white;
 }
 textarea, input[type="text"] {
 }
