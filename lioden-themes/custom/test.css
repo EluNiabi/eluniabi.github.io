@@ -89,8 +89,14 @@ a:hover {
 	border: 1px solid #000!important;
 	border-radius: 10px;
 }
-.table, .table #player, .table #auto, .table #pride {
+.table, .table #player, .table #about, .table #pride, .table #allies {
 	border: 1px solid #000;
+}
+.table #about .top {
+	border-right: 1px solid #000!important;
+}
+.table #about .right {
+	border-right: 1px solid #000!important;
 }
 .table .top, .table th {
 	background: white;
@@ -160,7 +166,6 @@ input:checked + .slider:before {
 	text-align: left;
 	padding: 5px;
 	border-radius: 10px;
-	overflow: hidden;
 }
 .box-expandy:hover {
 	height: 500px;
