@@ -127,13 +127,26 @@ a:hover {
 .table {
 	border: none;
 }
-.table .top, .table th, .table .bottom {
+.table .top, .table th {
 	background: #27262C;
 	border-radius: 10px;
+}
+.table .bottom {
+	background: none;
 }
 .table .right, td, .table .right_odd {
 	background: none;
 }
+.table .left {
+	background: none;
+}
+.inner-table .left {
+	backgroundL #3f3e47!important;
+}
+.inner-table .right {
+	background: #4b4955!important;
+}
+
 
    /* MISC */
 .scrolly {
