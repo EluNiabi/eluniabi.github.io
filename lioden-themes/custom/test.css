@@ -220,13 +220,13 @@ ul.bottomlinks a:hover {
 	color: white!important;
 }
 .slider {
-	background: #4b4955!important;
+	background: #3f3e47!important;
 }
 .slider:before {
-	background: #F19649!important;
+	background: #4b4955!important;
 }
 input:checked + .slider {
-	background: #4b4955!important;
+	background: #3f3e47!important;
 }
 input:checked + .slider:before {
 	background: #FEBB5E!important;
