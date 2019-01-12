@@ -6,14 +6,14 @@
 body {
 	background: url('https://static.pexels.com/photos/258112/pexels-photo-258112.jpeg') center fixed;
 	background-size: cover;
-	cursor: url(http://cur.cursors-4u.net/holidays/hol-4/hol394.cur), auto !important;
+	cursor: url(http://cur.cursors-4u.net/nature/nat-4/nat387.cur), auto !important;
 }
 h1, h2, h3 {
 }
 a:link, a:visited, a:active {
 }
 a:hover {
-	cursor: url(http://cur.cursors-4u.net/holidays/hol-4/hol394.cur), auto !important;
+	cursor: url(http://cur.cursors-4u.net/nature/nat-4/nat388.cur), auto !important;
 }
 
    /* TOPBAR */
@@ -120,10 +120,12 @@ textarea, input[type="text"] {
 input[type="submit"], input[type="button"] {
 }
 input[type="submit"]:hover, input[type="button"]:hover {
+	cursor: url(http://cur.cursors-4u.net/nature/nat-4/nat388.cur), auto !important;
 }
 ul.bottomlinks a:link, a:visited, a:active {
 }
 ul.bottomlinks a:hover {
+	cursor: url(http://cur.cursors-4u.net/nature/nat-4/nat388.cur), auto !important;
 }
 .item {
 }
