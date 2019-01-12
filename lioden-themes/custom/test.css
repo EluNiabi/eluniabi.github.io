@@ -123,6 +123,9 @@ a:hover {
 .breadcrumb {
 	background: none;
 }
+.breadcrumb li.active {
+	color: white!important;
+}
 .table {
 	border: none;
 }
@@ -159,10 +162,14 @@ div .left {
 }
 
    /* MISC */
-.scrolly {
-	height: 500px;
+.expandy {
+	height: 150px;
 	overflow: auto;
 	padding: 5px;
+	transition: 2s;
+}
+.expandy:hover {
+	height: 500px;
 }
 .copyright {
 	position: fixed;
