@@ -66,7 +66,8 @@ a:hover {
 }
 .main {
 	background: #d0d8e8;
-	border: 1px solid #454f63;
+	border: none;
+	box-shadow: none!important;
 	border-radius: 10px;
 }
 .col-md-9 {
@@ -81,6 +82,7 @@ a:hover {
 .breadcrumb li.active {
 }
 .table {
+	border: 1px solid #000;
 }
 .table .top, .table th {
 }
