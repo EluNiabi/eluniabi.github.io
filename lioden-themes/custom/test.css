@@ -28,7 +28,7 @@ a:hover {
 
    /* TOPBAR */
 .topbar {
-	background: #27262C;!important;
+	background: #27262C!important;
 	color: white;
 }
 .table .top a:link, .table .top a:active, .table .top a:visited, .table th a:link, .table th a:active, .table th a:visited , .topbar a:link, .topbar a:visited, .topbar a:active, .table .bottom a:link, .table .bottom a:active, .table .bottom a:visited {
