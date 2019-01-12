@@ -10,6 +10,7 @@ body {
 	color: black;
 }
 h1, h2, h3 {
+	color: #557293;
 }
 a:link, a:visited, a:active {
 	color: #549fa8;
@@ -63,6 +64,7 @@ a:hover {
 	color: #f3f8fe;
 }
 .sidebar h3 {
+	color: #557293;
 }
 .progress {
 	background: #fff;
