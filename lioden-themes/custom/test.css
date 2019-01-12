@@ -24,7 +24,6 @@ a:link, a:visited, a:active {
 a:hover {
 	color: #FEBB5E;
 	cursor: url(http://cur.cursors-4u.net/holidays/hol-3/hol200.cur), auto !important;
-	text-decoration: underline;
 }
 
    /* TOPBAR */
@@ -36,9 +35,8 @@ a:hover {
 	color: #F19649;
 }
 .table .top a:hover, .table th a:hover, .topbar a:hover, .table .bottom a:hover {
-	color: #FEBB5EE;
+	color: #FEBB5E;
 	cursor: url(http://cur.cursors-4u.net/holidays/hol-3/hol200.cur), auto !important;
-	text-decoration: underline;
 }
 .badge {
 	background: #F19649;
@@ -57,7 +55,7 @@ a:hover {
 }
 .navbar-default .navbar-nav li a:hover {
 	background: none repeat scroll 0% 0% #0f0e11;
-	color: #F19649;
+	color: #FEBB5E;
 }
 
    /* SIDEBAR */
