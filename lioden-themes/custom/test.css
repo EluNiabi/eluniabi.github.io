@@ -87,6 +87,7 @@ a:hover {
 }
 .table {
 	border-radius: 10px;
+	border: 1px solid #000!important;
 	overflow: hidden;
 }
 .table .top, .table th {
