@@ -173,11 +173,12 @@ input[type="submit"]:hover, input[type="button"]:hover {
 .box-expandy {
 	height: 100px;
 	overflow: auto;
-	transition: 2s;
+	transition: 5s;
 	border: 1px solid #000;
 	text-align: left;
 	padding: 5px;
 	border-radius: 10px;
+	background: #f3f5f9;
 }
 .box-expandy:hover {
 	height: 500px;
