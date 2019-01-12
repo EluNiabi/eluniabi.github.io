@@ -69,13 +69,13 @@ a:hover {
 	color: #FEBB5E;
 }
 .progress {
-	background: #27262C;
+	background: #F19649;
 	border: 1px solid #000;
-	color: #fff;
+	color: #fff!important;
 	font-family: Verdana;
 }
 .progress-bar-warning, .progress-bar-danger, .progress-bar-success, .progress-bar {
-	background: #F19649;
+	background: #27262C;
 }
 
    /* MAIN TABLES */
