@@ -18,6 +18,7 @@ a:hover {
 
    /* TOPBAR */
 .topbar {
+	background: #606f8a;
 }
 .table .top a:link, .table .top a:active, .table .top a:visited, .table th a:link, .table th a:active, .table th a:visited , .topbar a:link, .topbar a:visited, .topbar a:active, .table .bottom a:link, .table .bottom a:active, .table .bottom a:visited {
 }
@@ -30,10 +31,12 @@ a:hover {
 .navbar-header > a > img {
 }
 .navbar {
+	background: #6e7f9e;
 }
 .navbar-default .navbar-nav > li > a {
 }
 .navbar-default .navbar-nav li a:hover {
+	background: #606f8a!important;
 }
 
    /* SIDEBAR */
