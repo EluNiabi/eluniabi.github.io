@@ -34,7 +34,7 @@ a:hover {
 .table .top a:link, .table .top a:active, .table .top a:visited, .table th a:link, .table th a:active, .table th a:visited , .topbar a:link, .topbar a:visited, .topbar a:active, .table .bottom a:link, .table .bottom a:active, .table .bottom a:visited {
 	color: #F19649;
 }
-.table .top a:hover {
+.table .top a:hover, .table th a:hover, .topbar a:hover, .table .bottom a:hover {
 	color: #FEBB5EE;
 	cursor: url(http://cur.cursors-4u.net/holidays/hol-3/hol200.cur), auto !important;
 	text-decoration: underline;
