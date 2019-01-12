@@ -136,10 +136,10 @@ div .left {
 	background: #8a9fc6;!important;
 	border: none!important;
 }
-.cave-grid a, .mound-grid a {
+a .cave-grid, a .mound-grid {
 	color: #e1f3f6!important;
 }
-.cave-grid a:hover, .mound-grid a:hover {
+a:hover .cave-grid, a:hover .mound-grid {
 	color: #f3f8fe!important;
 }
 
