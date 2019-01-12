@@ -14,10 +14,16 @@ body {
 	font-size: 10pt;
 }
 h1, h2, h3 {
+	font-family: 'Chicken Farm'
+	color: #164773;
 }
 a:link, a:visited, a:active {
+	text-decoration: underline;
+	color: #7c6b4f;
 }
 a:hover {
+	text-decoration: underline;
+	color: #704d15;
 }
 
    /* TOPBAR */
@@ -64,8 +70,12 @@ a:hover {
 .container {
 }
 .main {
+	background: #f6efe5;
+	border: 1px solid #e0dacc;
 }
 .col-md-9 {
+	background: url('https://f271.https.cdn.softlayer.net/80F271/dal05.objectstorage.softlayer.net/v1/AUTH_b4a3a2ca-226e-4f3c-aef2-b5275f5900cc/cdn/preview/gardeningwebsitetemplate/images/border-vertical.gif') repeat-y center top;
+	background-color: none!important;
 }
 #lion_image {
 }
