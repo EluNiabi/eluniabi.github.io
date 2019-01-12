@@ -166,7 +166,7 @@ div .left {
 	right: 0;
 	bottom: 0;
 }
-textarea, imput[type="text"] {
+textarea, input[type="text"] {
 	color: black;
 	background: #f2f2f2;
 }
