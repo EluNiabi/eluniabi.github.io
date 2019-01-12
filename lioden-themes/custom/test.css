@@ -90,6 +90,9 @@ a:hover {
 	border: 1px solid #000!important;
 	overflow: hidden;
 }
+.table {
+	border: 1px solid #000;
+}
 .table .top, .table th {
 }
 .table .bottom {
@@ -156,6 +159,7 @@ input:checked + .slider:before {
 	text-align: left;
 	padding: 5px;
 	border-radius: 10px;
+	overflow: hidden;
 }
 .box-expandy:hover {
 	height: 500px;
