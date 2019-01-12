@@ -209,3 +209,18 @@ ul.bottomlinks a:hover {
 	cursor: url(http://cur.cursors-4u.net/holidays/hol-3/hol200.cur), auto !important;
 	text-decoration: none;
 }
+.item {
+	border: 1px solid black;
+	background: #4b4955!important;
+}
+.item-header {
+	background: #3f3e47!important;
+}
+.slider {
+}
+.slider:before {
+}
+input:checked + .slider {
+}
+input:checked + .slider:before {
+}
