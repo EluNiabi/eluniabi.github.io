@@ -87,7 +87,9 @@ a:hover {
 .breadcrumb li.active {
 }
 .table {
-	border: none;
+	border: 1px solid #000;
+	border-radius: 10px;
+	overflow: hidden;
 }
 .table .top, .table th {
 }
