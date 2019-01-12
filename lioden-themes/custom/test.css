@@ -215,12 +215,16 @@ ul.bottomlinks a:hover {
 }
 .item-header {
 	background: #3f3e47!important;
+	color: white!important;
 }
 .slider {
+	background: red!important;
 }
 .slider:before {
+	background: blue!important;
 }
 input:checked + .slider {
+	background: yellow!important;
 }
 input:checked + .slider:before {
 }
