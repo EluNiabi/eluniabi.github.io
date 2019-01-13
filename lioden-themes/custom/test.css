@@ -24,12 +24,16 @@ a:hover {
 .topbar {
 	background: none;
 	padding-top: 2px;
+	color: #988878;
 }
 .table .top a:link, .table .top a:active, .table .top a:visited, .table th a:link, .table th a:active, .table th a:visited , .topbar a:link, .topbar a:visited, .topbar a:active, .table .bottom a:link, .table .bottom a:active, .table .bottom a:visited {
+	color: #E8E1D1;
 }
 .table .top a:hover, .table th a:hover, .topbar a:hover, .table .bottom a:hover {
+	color: #f9f7f3;
 }
 .badge {
+	background: #f9f7f3;
 }
 
 	/* NAVBAR */
@@ -39,8 +43,10 @@ a:hover {
 	background: url('https://f271.https.cdn.softlayer.net/80F271/dal05.objectstorage.softlayer.net/v1/AUTH_b4a3a2ca-226e-4f3c-aef2-b5275f5900cc/cdn/preview/gardeningwebsitetemplate/images/bg-footer.jpg') repeat-x center bottom;
 }
 .navbar-default .navbar-nav > li > a {
+	color: #E8E1D1;
 }
 .navbar-default .navbar-nav li a:hover {
+	color: #f9f7f3;
 }
 
    /* SIDEBAR */
@@ -71,10 +77,10 @@ a:hover {
 .container {
 }
 .main {
-	background: #f6efe5 url('https://f271.https.cdn.softlayer.net/80F271/dal05.objectstorage.softlayer.net/v1/AUTH_b4a3a2ca-226e-4f3c-aef2-b5275f5900cc/cdn/preview/gardeningwebsitetemplate/images/border-vertical.gif') repeat-y right top;
+	background: #f6efe5;
 }
 .col-md-9 {
-	background: none;
+	background: none url('https://f271.https.cdn.softlayer.net/80F271/dal05.objectstorage.softlayer.net/v1/AUTH_b4a3a2ca-226e-4f3c-aef2-b5275f5900cc/cdn/preview/gardeningwebsitetemplate/images/border-vertical.gif') repeat-y right top;
 }
 #lion_image {
 }
