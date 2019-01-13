@@ -71,9 +71,11 @@ a:hover {
 }
 .chat_light {
 	background: #fffcf9!important;
+	border-top: 1px solid #ddd7ce;
 }
 .chat_dark {
-	background: #FFF6ED!important;
+	background: #fffcf9!important;
+	border-top: 1px solid #ddd7ce;
 }
 #txtChatMessage {
 }
