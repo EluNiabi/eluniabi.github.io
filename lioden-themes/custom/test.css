@@ -11,6 +11,7 @@ body {
 }
 h1, h2, h3 {
 	color: #164773;
+	font-family: 'Homemade Apple', cursive;
 }
 a:link, a:visited, a:active {
 	color: #7c6b4f;
@@ -36,7 +37,6 @@ a:hover {
 }
 .navbar {
 	background: url('https://f271.https.cdn.softlayer.net/80F271/dal05.objectstorage.softlayer.net/v1/AUTH_b4a3a2ca-226e-4f3c-aef2-b5275f5900cc/cdn/preview/gardeningwebsitetemplate/images/bg-footer.jpg') repeat-x center bottom;
-	font-family: 'Homemade Apple', cursive;
 }
 .navbar-default .navbar-nav > li > a {
 }
