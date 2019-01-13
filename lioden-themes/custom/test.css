@@ -71,6 +71,7 @@ a:hover {
 	border: 2px solid #DDD7C6!important;
 	border-top: 1px solid #DDD7C6!important;
 	box-shadow: none!important;
+	border-radius: 4px;
 }
 .chat_light {
 	background: none!important;
