@@ -80,8 +80,7 @@ a:hover {
 	background: #f6efe5;
 }
 .col-md-9 {
-	background-color: none;
-	border-right: 1px solid #ddd7ce;
+	background: none url('https://f271.https.cdn.softlayer.net/80F271/dal05.objectstorage.softlayer.net/v1/AUTH_b4a3a2ca-226e-4f3c-aef2-b5275f5900cc/cdn/preview/gardeningwebsitetemplate/images/border-vertical.gif') repeat-y center top !important;
 }
 #lion_image {
 }
