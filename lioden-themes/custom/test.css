@@ -1,15 +1,15 @@
 	/* Niabi's Free Themes - Chicken Farm */
 
    /* FONT IMPORT */
-@import url('https://fonts.googleapis.com/css?family=Rancho');
+@import url('https://fonts.googleapis.com/css?family=Architects+Daughter|Homemade+Apple');
 
    /* MAIN */
 body {
 	background: #e8e1d1 url('https://f271.https.cdn.softlayer.net/80F271/dal05.objectstorage.softlayer.net/v1/AUTH_b4a3a2ca-226e-4f3c-aef2-b5275f5900cc/cdn/preview/gardeningwebsitetemplate/images/bg-body.jpg') repeat-x center top;
 	color: #7c6b4f;
+	font-family: 'Architects Daughter', cursive;
 }
 h1, h2, h3 {
-	font-family: 'Rancho', cursive;
 	color: #164773;
 }
 a:link, a:visited, a:active {
@@ -36,6 +36,7 @@ a:hover {
 }
 .navbar {
 	background: url('https://f271.https.cdn.softlayer.net/80F271/dal05.objectstorage.softlayer.net/v1/AUTH_b4a3a2ca-226e-4f3c-aef2-b5275f5900cc/cdn/preview/gardeningwebsitetemplate/images/bg-footer.jpg') repeat-x center bottom;
+	font-family: 'Homemade Apple', cursive;
 }
 .navbar-default .navbar-nav > li > a {
 }
@@ -46,7 +47,6 @@ a:hover {
 .panel {
 }
 .sidebar h3 {
-	font-family: 'Rancho', cursive;
 	color: #164773;
 }
 .progress {
