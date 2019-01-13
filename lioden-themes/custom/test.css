@@ -104,19 +104,16 @@ a:hover {
 	color: #7c6b4f;
 }
 .table .right, td, .table .right_odd, .table .right_cub {
-	background: #fdfbf8;
+	background: none;
 }
 .inner-table .right {
-	background: #ffffff;
 }
 div .left {
 	background: #FFF6ED;
 	border: 2px solid #DDD7C6;
 }
 .table .left {
-	background: #efe3d2;
-}
-.inner-table .left {
+	background: none;
 }
 .cave-grid, .mound-grid {
 	background: #FFF6ED;
