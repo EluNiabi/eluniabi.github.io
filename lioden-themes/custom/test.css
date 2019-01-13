@@ -67,15 +67,18 @@ a:hover {
 	background: #7390ab!important;
 }
 .chatContainer {
+	background: #FFF6ED!important;
 	border: 2px solid #DDD7C6!important;
+	border-top: 1px solid #DDD7C6!important;
+	box-shadow: none!important;
 }
 .chat_light {
-	background: #fffcf9!important;
-	border-top: 1px solid #ddd7ce;
+	background: none!important;
+	border-top: 1px solid #DDD7C6;
 }
 .chat_dark {
-	background: #fffcf9!important;
-	border-top: 1px solid #ddd7ce;
+	background: none!important;
+	border-top: 1px solid #DDD7C6;
 }
 #txtChatMessage {
 }
