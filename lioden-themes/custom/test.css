@@ -1,6 +1,10 @@
 	/* Niabi's Free Themes - Chicken Farm */
 
    /* FONT IMPORT */
+@font-face {
+  font-family: Chicken Farm;
+    src: url(https://eluniabi.github.io/DairylandBunnies/test/chicken-farm/ChickenFarm.ttf);
+}
 
    /* MAIN */
 body {
@@ -16,6 +20,9 @@ a:link, a:visited, a:active {
 }
 a:hover {
 	color: #704d15;
+}
+.footer {
+	background: url('https://f271.https.cdn.softlayer.net/80F271/dal05.objectstorage.softlayer.net/v1/AUTH_b4a3a2ca-226e-4f3c-aef2-b5275f5900cc/cdn/preview/gardeningwebsitetemplate/images/bg-footer.jpg') repeat-x center bottom;
 }
 
    /* TOPBAR */
@@ -34,6 +41,7 @@ a:hover {
 .navbar-header > a > img {
 }
 .navbar {
+	background: url('https://f271.https.cdn.softlayer.net/80F271/dal05.objectstorage.softlayer.net/v1/AUTH_b4a3a2ca-226e-4f3c-aef2-b5275f5900cc/cdn/preview/gardeningwebsitetemplate/images/bg-footer.jpg') repeat-x center bottom;
 }
 .navbar-default .navbar-nav > li > a {
 }
@@ -44,6 +52,8 @@ a:hover {
 .panel {
 }
 .sidebar h3 {
+	font-family: 'Chicken Farm'
+	color: #164773;
 }
 .progress {
 }
@@ -65,7 +75,6 @@ a:hover {
 }
 .main {
 	background: #f6efe5;
-	margin-top: 200px;
 }
 .col-md-9 {
 	background: none;
