@@ -64,12 +64,16 @@ a:hover {
 .progress div {
 }
 .progress-bar-warning, .progress-bar-danger, .progress-bar-success, .progress-bar {
+	background: #7390ab!important;
 }
 .chatContainer {
+	border: 2px solid #DDD7C6!important;
 }
 .chat_light {
+	background: #fffcf9!important;
 }
 .chat_dark {
+	background: #FFF6ED!important;
 }
 #txtChatMessage {
 }
