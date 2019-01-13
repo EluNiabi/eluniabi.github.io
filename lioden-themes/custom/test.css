@@ -16,11 +16,9 @@ h1, h2, h3 {
 	color: #164773;
 }
 a:link, a:visited, a:active {
-	text-decoration: underline;
 	color: #7c6b4f;
 }
 a:hover {
-	text-decoration: underline;
 	color: #704d15;
 }
 
