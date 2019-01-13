@@ -1,10 +1,7 @@
 	/* Niabi's Free Themes - Chicken Farm */
 
    /* FONT IMPORT */
-@font-face {
-  font-family: Chicken Farm;
-    src: url(https://eluniabi.github.io/DairylandBunnies/test/chicken-farm/ChickenFarm.ttf);
-}
+@import url('https://fonts.googleapis.com/css?family=Rancho');
 
    /* MAIN */
 body {
@@ -12,7 +9,7 @@ body {
 	color: #7c6b4f;
 }
 h1, h2, h3 {
-	font-family: 'Chicken Farm'
+	font-family: 'Rancho', cursive;
 	color: #164773;
 }
 a:link, a:visited, a:active {
@@ -49,7 +46,7 @@ a:hover {
 .panel {
 }
 .sidebar h3 {
-	font-family: 'Chicken Farm'
+	font-family: 'Rancho', cursive;
 	color: #164773;
 }
 .progress {
