@@ -14,10 +14,10 @@ h1, h2, h3 {
 	font-family: 'Homemade Apple', cursive;
 }
 a:link, a:visited, a:active {
-	color: #7390ab;
+	color: #7390ab!important;
 }
 a:hover {
-	color: #8aa3b9;
+	color: #8aa3b9!important;
 }
 
    /* TOPBAR */
@@ -148,11 +148,11 @@ input[type="submit"]:hover, input[type="button"]:hover {
 .footer {
 	color: #7c6b4f;
 }
-ul.bottomlinks a:link, a:visited, a:active {
-	color: #7c6b4f;
+ul.bottomlinks a:link {
+	color: #7390ab!important;
 }
 ul.bottomlinks a:hover {
-	color: #704d15;
+	color: #8aa3b9!important;
 }
 .item {
 }
