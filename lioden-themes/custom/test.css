@@ -21,6 +21,7 @@ a:hover {
    /* TOPBAR */
 .topbar {
 	background: none;
+	padding-top: 2px;
 }
 .table .top a:link, .table .top a:active, .table .top a:visited, .table th a:link, .table th a:active, .table th a:visited , .topbar a:link, .topbar a:visited, .topbar a:active, .table .bottom a:link, .table .bottom a:active, .table .bottom a:visited {
 }
@@ -64,7 +65,7 @@ a:hover {
 }
 .main {
 	background: #f6efe5;
-	margin-top: 100px;
+	margin-top: 200px;
 }
 .col-md-9 {
 	background: none;
