@@ -45,7 +45,9 @@ a:hover {
 
    /* SIDEBAR */
 .panel {
-	background: url('https://f271.https.cdn.softlayer.net/80F271/dal05.objectstorage.softlayer.net/v1/AUTH_b4a3a2ca-226e-4f3c-aef2-b5275f5900cc/cdn/preview/gardeningwebsitetemplate/images/bg-footer-item.gif') no-repeat !important;
+	background: #FFF6ED!important;
+	border: 3px solid #DDD7C6!important;
+	box-shadow: none!important;
 }
 .sidebar h3 {
 	color: #164773;
@@ -69,7 +71,7 @@ a:hover {
 .container {
 }
 .main {
-	background: #f6efe5;
+	background: #f6efe5 url('https://f271.https.cdn.softlayer.net/80F271/dal05.objectstorage.softlayer.net/v1/AUTH_b4a3a2ca-226e-4f3c-aef2-b5275f5900cc/cdn/preview/gardeningwebsitetemplate/images/border-vertical.gif') repeat-y right top;
 }
 .col-md-9 {
 	background: none;
