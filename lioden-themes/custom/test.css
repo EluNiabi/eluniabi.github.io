@@ -130,9 +130,14 @@ input[type="submit"], input[type="button"] {
 }
 input[type="submit"]:hover, input[type="button"]:hover {
 }
+.footer {
+	color: #7c6b4f;
+}
 ul.bottomlinks a:link, a:visited, a:active {
+	color: #7c6b4f;
 }
 ul.bottomlinks a:hover {
+	color: #704d15;
 }
 .item {
 }
