@@ -103,21 +103,24 @@ a:hover {
 	background: none;
 	color: #7c6b4f;
 }
-.table .right, td, .table .right_odd {
-	background: none;
+.table .right, td, .table .right_odd, .table .right_cub {
+	background: #fdfbf8;
 }
 .inner-table .right {
+	background: #ffffff;
 }
 div .left {
-}
-.left img {
+	background: #FFF6ED;
+	border: 2px solid #DDD7C6;
 }
 .table .left {
-	background: none;
+	background: #efe3d2;
 }
 .inner-table .left {
 }
 .cave-grid, .mound-grid {
+	background: #FFF6ED;
+	border: 2px solid #DDD7C6;
 }
 
    /* MISC */
@@ -128,11 +131,10 @@ div .left {
 	right: 0;
 	bottom: 0;
 	z-index: 10;
-	border-radius: 5px;
+	border-radius: 5px 0 0 0;
 	background: #FFF6ED;
-	border: 2px solid #DDD7C6;
-}
-textarea, input[type="text"] {
+	border-top: 2px solid #DDD7C6;
+	border-left: 2px solid #DDD7C6;
 }
 input[type="submit"], input[type="button"] {
 }
