@@ -5,6 +5,7 @@
    /* MAIN */
 body {
 	background: black url('https://i.pinimg.com/originals/56/04/5c/56045cb775574b38bdf2e85a3b3c56e7.jpg') repeat-x center top;
+	background-size: cover;
 }
 h1, h2, h3 {
 }
