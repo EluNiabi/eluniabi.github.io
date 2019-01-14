@@ -1,0 +1,124 @@
+	/* Niabi's Custom Themes -  */
+
+   /* FONT IMPORT */
+
+   /* MAIN */
+body {
+	background: black url('https://i.pinimg.com/originals/56/04/5c/56045cb775574b38bdf2e85a3b3c56e7.jpg')
+}
+h1, h2, h3 {
+}
+a:link, a:visited, a:active {
+}
+a:hover {
+}
+
+   /* TOPBAR */
+.topbar {
+}
+.table .top a:link, .table .top a:active, .table .top a:visited, .table th a:link, .table th a:active, .table th a:visited , .topbar a:link, .topbar a:visited, .topbar a:active, .table .bottom a:link, .table .bottom a:active, .table .bottom a:visited {
+}
+.table .top a:hover, .table th a:hover, .topbar a:hover, .table .bottom a:hover {
+}
+.badge {
+}
+
+	/* NAVBAR */
+.navbar-header > a > img {
+}
+.navbar {
+}
+.navbar-default .navbar-nav > li > a {
+}
+.navbar-default .navbar-nav li a:hover {
+}
+
+   /* SIDEBAR */
+.panel {
+}
+.sidebar h3 {
+}
+.progress {
+}
+.progress div {
+}
+.progress-bar-warning, .progress-bar-danger, .progress-bar-success, .progress-bar {
+}
+.chatContainer {
+}
+.chat_light {
+}
+.chat_dark {
+}
+#txtChatMessage {
+}
+
+   /* MAIN TABLES */
+.container {
+}
+.main {
+}
+.col-md-9 {
+}
+#lion_image {
+}
+#lion_image > div {
+}
+.breadcrumb {
+}
+.breadcrumb li.active {
+}
+.table {
+}
+.table .top, .table th {
+}
+.table .bottom {
+}
+.table .right, td, .table .right_odd {
+}
+.inner-table .right {
+}
+div .left {
+}
+.left img {
+}
+.table .left {
+}
+.inner-table .left {
+}
+.cave-grid, .mound-grid {
+}
+
+   /* MISC */
+.copyright {
+	position: fixed;
+	overflow: hidden;
+	padding: 5px;
+	right: 0;
+	bottom: 0;
+	z-index: 10;
+	border-radius: 5px;
+	background: ;
+}
+textarea, input[type="text"] {
+}
+input[type="submit"], input[type="button"] {
+}
+input[type="submit"]:hover, input[type="button"]:hover {
+}
+ul.bottomlinks a:link, a:visited, a:active {
+}
+ul.bottomlinks a:hover {
+}
+.item {
+}
+.item-header {
+}
+.slider {
+}
+.slider:before {
+}
+input:checked + .slider {
+}
+input:checked + .slider:before {
+}
