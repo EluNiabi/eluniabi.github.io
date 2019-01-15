@@ -1,0 +1,208 @@
+	/* Niabi's Free Themes - Chicken Farm */
+
+   /* FONT IMPORT */
+@import url('https://fonts.googleapis.com/css?family=Architects+Daughter|Homemade+Apple');
+
+   /* MAIN */
+body {
+	background: #e8e1d1 url('https://f271.https.cdn.softlayer.net/80F271/dal05.objectstorage.softlayer.net/v1/AUTH_b4a3a2ca-226e-4f3c-aef2-b5275f5900cc/cdn/preview/gardeningwebsitetemplate/images/bg-body.jpg') repeat-x center top;
+	color: #7c6b4f;
+	font-family: 'Architects Daughter', cursive;
+}
+h1, h2, h3 {
+	color: #164773;
+	font-family: 'Homemade Apple', cursive;
+}
+a:link, a:visited, a:active {
+	color: #7390ab;
+}
+a:hover {
+	color: #8aa3b9;
+}
+
+   /* TOPBAR */
+.topbar {
+	background: none;
+	padding-top: 2px;
+	color: #988878;
+}
+.table .top a:link, .table .top a:active, .table .top a:visited, .table th a:link, .table th a:active, .table th a:visited , .topbar a:link, .topbar a:visited, .topbar a:active, .table .bottom a:link, .table .bottom a:active, .table .bottom a:visited {
+	color: #9A8E79;
+}
+.table .top a:hover, .table th a:hover, .topbar a:hover, .table .bottom a:hover {
+	color: #B4A791;
+}
+.badge {
+	background: none;
+	color: #988878;
+}
+
+	/* NAVBAR */
+.navbar {
+	background: url('https://f271.https.cdn.softlayer.net/80F271/dal05.objectstorage.softlayer.net/v1/AUTH_b4a3a2ca-226e-4f3c-aef2-b5275f5900cc/cdn/preview/gardeningwebsitetemplate/images/bg-footer.jpg') repeat-x center bottom;
+}
+.navbar-default .navbar-nav > li > a {
+	color: #9A8E79;
+}
+.navbar-default .navbar-nav li a:hover {
+	color: #B4A791;
+	background: none!important;
+}
+
+   /* SIDEBAR */
+.panel {
+	background: #FFF6ED!important;
+	border: 2px solid #DDD7C6!important;
+	box-shadow: none!important;
+}
+.sidebar h3 {
+	color: #164773;
+}
+.progress-bar-warning, .progress-bar-danger, .progress-bar-success, .progress-bar {
+	background: #7390ab!important;
+}
+.chatContainer {
+	background: #FFF6ED!important;
+	border: 2px solid #DDD7C6!important;
+	border-top: 1px solid #DDD7C6!important;
+	box-shadow: none!important;
+	border-radius: 4px;
+}
+.chat_light {
+	background: none!important;
+	border-top: 1px solid #DDD7C6;
+}
+.chat_dark {
+	background: none!important;
+	border-top: 1px solid #DDD7C6;
+}
+   /* MAIN TABLES */
+.main {
+	background: #f6efe5;
+}
+.col-md-9 {
+	background: none!important;
+	border-right: 1px solid #ddd7ce;
+}
+.breadcrumb {
+	background: #FFF6ED;
+	border: 2px solid #DDD7C6;
+}
+.table {
+	border: none;
+}
+.table .top, .table th {
+	background: url('https://f271.https.cdn.softlayer.net/80F271/dal05.objectstorage.softlayer.net/v1/AUTH_b4a3a2ca-226e-4f3c-aef2-b5275f5900cc/cdn/preview/gardeningwebsitetemplate/images/bg-footer.jpg') repeat-x center bottom;
+	color: #988878;
+}
+.table .bottom {
+	background: none;
+	color: #7c6b4f;
+}
+.table .bottom a:link, .table .bottom a:visited, .table .bottom a:active {
+	color: #7390ab;
+}
+.table .bottom a:hover {
+	color: #8aa3b9;
+}
+.table .left {
+	background: #E4D5C0;
+	border: none;
+}
+.table .right, td, .table .right_odd, .table .right_cub {
+	background: none;
+}
+.inner-table .left {
+	background: #E4D5C0;
+	border-top: 1px solid #7c6b4f!important;
+	border-bottom: 1px solid #7c6b4f!important;
+	border-left: 1px solid #7c6b4f!important;
+}
+.inner-table .right {
+	background: #ECE3D4;
+	border-top: 1px solid #7c6b4f;
+	border-bottom: 1px solid #7c6b4f;
+	border-right: 1px solid #7c6b4f;
+}
+#pride {
+	background: #ECE3D4;
+	border: 1px solid #7c6b4f;
+}
+#pride .right, #pride .right_odd, #pride . right_cub {
+	background: #ECE3D4;
+}
+div .left {
+	background: #FFF6ED;
+	border: 2px solid #DDD7C6;
+}
+.cave-grid, .mound-grid {
+	background: #FFF6ED;
+	border: 2px solid #DDD7C6;
+}
+
+   /* MISC */
+.copyright {
+	position: fixed;
+	overflow: hidden;
+	padding: 5px;
+	right: 0;
+	bottom: 0;
+	z-index: 10;
+	border-radius: 5px 0 0 0;
+	background: #FFF6ED;
+	border-top: 2px solid #DDD7C6;
+	border-left: 2px solid #DDD7C6;
+}
+input[type="submit"], input[type="button"] {
+	background: #ECE3D4!important;
+	color: #7c6b4f!important;
+	text-shadow: none!important;
+	border: 1px solid #7c6b4f!important;
+	box-shadow: none!important;
+}
+input[type="submit"]:hover, input[type="button"]:hover {
+	background: #E4D5C0!important;
+	color: #7c6b4f!important;
+	text-shadow: none!important;
+	border: 1px solid #7c6b4f!important;
+	box-shadow: none!important;
+}
+input[type="submit"] .gold, input[type="submit"] .gold:hover {
+	border: 1px solid #ffe568!important;
+}
+input[type="submit"] .bad, input[type="submit"] .bad:hover {
+	border: 1px solid #ff5454!important;
+}
+select, option {
+	color: #7c6b4f!important;
+}
+.footer {
+	color: #7c6b4f;
+}
+ul.bottomlinks a:link, ul.bottomlinks a:visited, ul.bottomlinks a:active {
+	color: #7390ab!important;
+}
+ul.bottomlinks a:hover {
+	color: #8aa3b9!important;
+}
+.item {
+	background: #FFF6ED!important;
+	border: 2px solid #DDD7C6!important;
+	box-shadow: none!important;
+}
+.item-header, .item-footer {
+	background: #FFF6ED!important;
+	font-weight: bold;
+	color: #7c6b4f;
+}
+.input:checked + .slider {
+	background: #7390ab!important;
+}
+.sub_menu {
+	background: #FFF6ED!important;
+	border: 2px solid #DDD7C6!important;
+	box-shadow: none!important;
+}
+.sub_menu_item, .sub_menu_item:hover, .sub_menu_item_selected {	
+	background: none!important;
+}
