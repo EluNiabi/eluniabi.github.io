@@ -12,6 +12,12 @@ body {
 h1, h2, h3 {
 	font-family: 'Emilys Candy', cursive;
 }
+h1 {
+	color: #87224a;
+}
+h2, h2 {
+	color: #84284d;
+}
 a:link, a:visited, a:active {
 	color: #9b888f;
 	text-decoration: underline;
@@ -64,6 +70,7 @@ a:hover {
 .panel {
 }
 .sidebar h3 {
+	color: #84284d;
 }
 .progress {
 }
