@@ -29,10 +29,12 @@ a:hover {
 	color: #f5ffff;
 	text-shadow: 1px 1px 0 #ad657d, -1px -1px 0 #ad657d, -1px 1px 0 #ad657d, 1px -1px 0 #ad657d;
 	text-transform: lowercase;
+	text-decoration: none;
 }
 .table .top a:hover, .table th a:hover, .topbar a:hover, .table .bottom a:hover {
 	color: #7c0d37;
 	text-shadow: 1px 1px 0 #f7cade, -1px -1px 0 #f7cade, -1px 1px 0 #f7cade, 1px -1px 0 #f7cade;
+	text-decoration: none;
 }
 .badge {
 }
@@ -48,11 +50,13 @@ a:hover {
 	color: #f5ffff;
 	text-shadow: 1px 1px 0 #ad657d, -1px -1px 0 #ad657d, -1px 1px 0 #ad657d, 1px -1px 0 #ad657d;
 	text-transform: lowercase;
+	text-decoration: none;
 }
 .navbar-default .navbar-nav li a:hover {
 	background: none!important;
 	color: #7c0d37;
 	text-shadow: 1px 1px 0 #f7cade, -1px -1px 0 #f7cade, -1px 1px 0 #f7cade, 1px -1px 0 #f7cade;
+	text-decoration: none;
 }
 
    /* SIDEBAR */
