@@ -190,12 +190,17 @@ ul.bottomlinks a:hover {
 .item-header, .item-footer {
 	background: #FFF6ED!important;
 	font-weight: bold;
+	color: #7c6b4f;
 }
 .slider {
+	background:red!important;
 }
 .slider:before {
+	background:blue!important;
 }
 input:checked + .slider {
+	background:yellow!important;
 }
 input:checked + .slider:before {
+	background:green!important;
 }
