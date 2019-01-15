@@ -120,7 +120,7 @@ a:hover {
 #lion_image > div {
 }
 .breadcrumb {
-	background: #f7f5f5!important;
+	background: white!important;
 	border: 1px solid #dfd9db!important;
 	box-shadow: none!important;
 }
@@ -135,14 +135,17 @@ a:hover {
 	background: #b2748d;
 	text-transform: lowercase;
 }
-.table .right, .table .right_odd, .table .right_cub {
+.table .right {
 	background: #f7f5f5;
+}
+#pride .table. right, #pride .table .right_odd, #pride .table .right_cub, {
+	background: white;
 }
 .inner-table .right {
 	background: white;
 }
 div .left {
-	background: #f7f5f5!important;
+	background: white!important;
 	border: 1px solid #dfd9db!important;
 	box-shadow: none!important;
 }
@@ -151,7 +154,7 @@ div .left {
 	border: none!important;
 }
 .cave-grid, .mound-grid {
-	background: #f7f5f5!important;
+	background: white!important;
 	border: 1px solid #dfd9db!important;
 	box-shadow: none!important;
 }
