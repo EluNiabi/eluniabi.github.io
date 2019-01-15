@@ -127,6 +127,12 @@ a:hover {
 }
 .inner-table .right {
 }
+#pride .left {
+	background: #e5ddd5;
+}
+#pride .right, #pride .right_odd, #pride . right_cub {
+	background: #FFF6ED!important;
+}
 div .left {
 	background: #FFF6ED;
 	border: 2px solid #DDD7C6;
@@ -173,7 +179,7 @@ input[type="submit"] .gold, input[type="submit"] .gold:hover {
 input[type="submit"] .bad, input[type="submit"] .bad:hover {
 	border: 1px solid #ff5454!important;
 }
-option {
+select, option {
 	color: #7c6b4f!important;
 }
 .footer {
