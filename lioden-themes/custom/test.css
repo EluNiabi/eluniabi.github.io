@@ -131,9 +131,9 @@ a:hover {
 }
 .inner-table .left {
 	background: #FFF6ED;
-	border-top: 1px solid #7c6b4f;
-	border-bottom: 1px solid #7c6b4f;
-	border-left: 1px solid #7c6b4f;
+	border-top: 1px solid #7c6b4f!important;
+	border-bottom: 1px solid #7c6b4f!important;
+	border-left: 1px solid #7c6b4f!important;
 }
 .inner-table .right {
 	background: #ECE3D4;
@@ -217,7 +217,7 @@ ul.bottomlinks a:hover {
 .slider:before {
 }
 input:checked + .slider {
+	background: #7390ab!important;
 }
 input:checked + .slider:before {
-	background: #7390ab!important;
 }
