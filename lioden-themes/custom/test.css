@@ -128,14 +128,14 @@ a:hover {
 .inner-table .right {
 }
 #pride {
-	background: #FFF6ED;
-	border: 1px solid black;
+	background: #ffe568;
+	border: 1px solid #7c6b4f;
 }
 #pride .left {
-	background: #DDD7C6;
+	background: #ff5454;
 }
 #pride .right, #pride .right_odd, #pride . right_cub {
-	background: #FFF6ED;
+	background: #ffe568;
 }
 div .left {
 	background: #FFF6ED;
