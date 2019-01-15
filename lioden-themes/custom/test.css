@@ -173,6 +173,9 @@ input[type="submit"] .gold, input[type="submit"] .gold:hover {
 input[type="submit"] .bad, input[type="submit"] .bad:hover {
 	border: 1px solid #ff5454!important;
 }
+option {
+	color: #7c6b4f!important;
+}
 .footer {
 	color: #7c6b4f;
 }
@@ -193,14 +196,11 @@ ul.bottomlinks a:hover {
 	color: #7c6b4f;
 }
 .slider {
-	background:red!important;
 }
 .slider:before {
-	background:blue!important;
 }
 input:checked + .slider {
-	background:yellow!important;
 }
 input:checked + .slider:before {
-	background:green!important;
+	background: #7390ab!important;
 }
