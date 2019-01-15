@@ -122,10 +122,15 @@ a:hover {
 .table .bottom a:hover {
 	color: #8aa3b9;
 }
+.table .left {
+	background: #E4D5C0;
+	border: none;
+}
 .table .right, td, .table .right_odd, .table .right_cub {
 	background: none;
 }
 .inner-table .left {
+	background: #FFF6ED;
 	border-top: 1px solid #7c6b4f;
 	border-bottom: 1px solid #7c6b4f;
 	border-left: 1px solid #7c6b4f;
@@ -146,10 +151,6 @@ a:hover {
 div .left {
 	background: #FFF6ED;
 	border: 2px solid #DDD7C6;
-}
-.table .left {
-	background: #E4D5C0;
-	border: none;
 }
 .cave-grid, .mound-grid {
 	background: #FFF6ED;
