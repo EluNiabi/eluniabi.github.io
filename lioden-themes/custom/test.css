@@ -68,6 +68,10 @@ a:hover {
 }
 
    /* SIDEBAR */
+.sidebar {
+	background: #ebe7e8!important;
+	border-radius: 4px;
+}
 .panel {
 }
 .sidebar h3 {
@@ -92,7 +96,7 @@ a:hover {
 .container {
 }
 .main {
-	background: #ebe7e8;
+	background: none;
 	box-shadow: none!important;
 	border: none;
 }
