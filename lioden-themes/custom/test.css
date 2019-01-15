@@ -126,6 +126,9 @@ a:hover {
 }
 .breadcrumb li.active {
 }
+table {
+	border: 1px solid #dfd9db!important;
+}
 .table {
 	border: none;
 	border-radius: 4px;
@@ -134,9 +137,6 @@ a:hover {
 .table .top, .table th, .table .bottom  {
 	background: #b2748d;
 	text-transform: lowercase;
-}
-.table .left {
-	background: #ebe7e8;
 }
 .table .right, .table .right_odd, .table .right_cub {
 	background: #f7f5f5;
@@ -148,6 +148,10 @@ div .left {
 	background: #f7f5f5!important;
 	border: 1px solid #dfd9db!important;
 	box-shadow: none!important;
+}
+.table .left {
+	background: #ebe7e8;
+	border: none;
 }
 .cave-grid, .mound-grid {
 	background: #f7f5f5!important;
