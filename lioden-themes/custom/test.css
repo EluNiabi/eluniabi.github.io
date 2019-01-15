@@ -149,8 +149,8 @@ a:hover {
 	background: #ECE3D4;
 }
 #editdetailspanel .table .left, #accountoptionspanel .table .left, #changepasswordpanel .table .left {
-	background none;
-	border-right: 1px solid #ddd7ce;
+	background none!important;
+	border-right: 1px solid #ddd7ce!important;
 }
 div .left {
 	background: #FFF6ED;
