@@ -96,7 +96,7 @@ a:hover {
 }
 .chat_light {
 	background: none;
-	border-top: #dfd9db;
+	border-top: #dfd9db!important;
 }
 .chat_dark {
 	background: none;
@@ -126,9 +126,6 @@ a:hover {
 }
 .breadcrumb li.active {
 }
-table {
-	border: 1px solid #dfd9db!important;
-}
 .table {
 	border: none;
 	border-radius: 4px;
@@ -150,8 +147,8 @@ div .left {
 	box-shadow: none!important;
 }
 .table .left {
-	background: #ebe7e8;
-	border: none;
+	background: #ebe7e8!important;
+	border: none!important;
 }
 .cave-grid, .mound-grid {
 	background: #f7f5f5!important;
