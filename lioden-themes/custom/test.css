@@ -53,7 +53,6 @@ a:hover {
 }
 .navbar {
 	background:#b2748d;
-	border-radius: 4px;
 }
 .navbar-default .navbar-nav > li > a {
 	background: url('https://f271.https.cdn.softlayer.net/80F271/dal05.objectstorage.softlayer.net/v1/AUTH_b4a3a2ca-226e-4f3c-aef2-b5275f5900cc/cdn/preview/cakewebsitetemplate/images/interface.png') no repeat -188px -361px !important;
@@ -73,8 +72,6 @@ a:hover {
    /* SIDEBAR */
 .sidebar {
 	background: #ebe7e8!important;
-	border-radius: 4px;
-	margin-top: 50px;
 }
 .panel {
 	background: #f7f5f5!important;
@@ -89,6 +86,7 @@ a:hover {
 .progress div {
 }
 .progress-bar-warning, .progress-bar-danger, .progress-bar-success, .progress-bar {
+	background: #f7cade!important;
 }
 .chatContainer {
 }
@@ -109,7 +107,6 @@ a:hover {
 }
 .col-md-9 {
 	background: #f5f5f5;
-	margin-top: 50px;
 }
 #lion_image {
 }
@@ -121,20 +118,24 @@ a:hover {
 }
 .table {
 	border: none;
+	border-radius: 4px;
+	overflow: hidden;
 }
 .table .top, .table th, .table .bottom  {
 	background: #b2748d;
 	text-transform: lowercase;
 }
-.table .right, td, .table .right_odd {
+.table .left {
+	background: #ebe7e8;
+}
+.table .right, .table .right_odd, .table .right_cub {
+	background: #f7f5f5;
 }
 .inner-table .right {
 }
 div .left {
 }
 .left img {
-}
-.table .left {
 }
 .inner-table .left {
 }
