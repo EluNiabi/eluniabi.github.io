@@ -125,11 +125,16 @@ a:hover {
 .table .right, td, .table .right_odd, .table .right_cub {
 	background: none;
 }
-.inner-table {
-	border: 1px solid #7c6b4f;
+.inner-table .left {
+	border-top: 1px solid #7c6b4f;
+	border-bottom: 1px solid #7c6b4f;
+	border-left: 1px solid #7c6b4f;
 }
 .inner-table .right {
 	background: #ECE3D4;
+	border-top: 1px solid #7c6b4f;
+	border-bottom: 1px solid #7c6b4f;
+	border-right: 1px solid #7c6b4f;
 }
 #pride {
 	background: #ECE3D4;
