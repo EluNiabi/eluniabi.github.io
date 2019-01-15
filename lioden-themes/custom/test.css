@@ -167,10 +167,10 @@ input[type="submit"]:hover, input[type="button"]:hover {
 	border: 1px solid #7c6b4f!important;
 	box-shadow: none!important;
 }
-.gold, .gold:hover {
+input[type="submit"] .gold, input[type="submit"] .gold:hover {
 	border: 1px solid #ffe568!important;
 }
-.bad, .gold:hover {
+input[type="submit"] .bad, input[type="submit"] .bad:hover {
 	border: 1px solid #ff5454!important;
 }
 .footer {
@@ -188,6 +188,8 @@ ul.bottomlinks a:hover {
 	box-shadow: none!important;
 }
 .item-header, .item-footer {
+	background: #FFF6ED!important;
+	font-weight: bold;
 }
 .slider {
 }
