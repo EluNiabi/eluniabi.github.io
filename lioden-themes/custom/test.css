@@ -1,12 +1,14 @@
 	/* Niabi's Custom Themes -  */
 
    /* FONT IMPORT */
+@import url('https://fonts.googleapis.com/css?family=Emilys+Candy');
 
    /* MAIN */
 body {
 	background: #f5f5f5 url('https://f271.https.cdn.softlayer.net/80F271/dal05.objectstorage.softlayer.net/v1/AUTH_b4a3a2ca-226e-4f3c-aef2-b5275f5900cc/cdn/preview/cakewebsitetemplate/images/bg-body.gif') repeat-x center top;
 }
 h1, h2, h3 {
+	font-family: 'Emilys Candy', cursive;
 }
 a:link, a:visited, a:active {
 }
