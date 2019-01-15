@@ -54,7 +54,7 @@ a:hover {
 	background:#b2748d;
 }
 .navbar-default .navbar-nav > li > a {
-	background: none!important;
+	background: url('https://f271.https.cdn.softlayer.net/80F271/dal05.objectstorage.softlayer.net/v1/AUTH_b4a3a2ca-226e-4f3c-aef2-b5275f5900cc/cdn/preview/cakewebsitetemplate/images/interface.png') no repeat -188px -226px;
 	color: #f5ffff;
 	text-shadow: 1px 1px 0 #ad657d, -1px -1px 0 #ad657d, -1px 1px 0 #ad657d, 1px -1px 0 #ad657d;
 	text-transform: lowercase;
