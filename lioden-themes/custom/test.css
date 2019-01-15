@@ -183,8 +183,11 @@ ul.bottomlinks a:hover {
 	color: #8aa3b9!important;
 }
 .item {
+	background: #FFF6ED!important;
+	border: 2px solid #DDD7C6!important;
+	box-shadow: none!important;
 }
-.item-header {
+.item-header, .item-footer {
 }
 .slider {
 }
