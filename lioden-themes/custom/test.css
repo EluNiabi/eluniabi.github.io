@@ -146,8 +146,18 @@ div .left {
 	border-left: 2px solid #DDD7C6;
 }
 input[type="submit"], input[type="button"] {
+	background: url('https://f271.https.cdn.softlayer.net/80F271/dal05.objectstorage.softlayer.net/v1/AUTH_b4a3a2ca-226e-4f3c-aef2-b5275f5900cc/cdn/preview/gardeningwebsitetemplate/images/interface.png') no-repeat;
+	color: #7c6b4f!important;
+	height: 23px;
+	border: none!important;
+	text-shadow: none!important;
 }
 input[type="submit"]:hover, input[type="button"]:hover {
+	background: url('https://f271.https.cdn.softlayer.net/80F271/dal05.objectstorage.softlayer.net/v1/AUTH_b4a3a2ca-226e-4f3c-aef2-b5275f5900cc/cdn/preview/gardeningwebsitetemplate/images/interface.png') no-repeat 0 -23px;
+	color: #7c6b4f!important;
+	height: 23px;
+	border: none!important;
+	text-shadow: none!important;
 }
 .footer {
 	color: #7c6b4f;
