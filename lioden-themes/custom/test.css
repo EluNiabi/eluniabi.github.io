@@ -126,13 +126,11 @@ a:hover {
 	background: none;
 }
 .inner-table .right {
+	background: #ECE3D4;
 }
 #pride {
 	background: #ECE3D4;
 	border: 1px solid #7c6b4f;
-}
-#pride .left {
-	background: #E4D5C0;
 }
 #pride .right, #pride .right_odd, #pride . right_cub {
 	background: #ECE3D4;
@@ -142,7 +140,7 @@ div .left {
 	border: 2px solid #DDD7C6;
 }
 .table .left {
-	background: none;
+	background: #E4D5C0;
 	border: none;
 }
 .cave-grid, .mound-grid {
