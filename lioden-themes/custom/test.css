@@ -14,10 +14,10 @@ h1, h2, h3 {
 	font-family: 'Homemade Apple', cursive;
 }
 a:link, a:visited, a:active {
-	color: #7390ab!important;
+	color: #7390ab;
 }
 a:hover {
-	color: #8aa3b9!important;
+	color: #8aa3b9;
 }
 
    /* TOPBAR */
@@ -27,10 +27,10 @@ a:hover {
 	color: #988878;
 }
 .table .top a:link, .table .top a:active, .table .top a:visited, .table th a:link, .table th a:active, .table th a:visited , .topbar a:link, .topbar a:visited, .topbar a:active, .table .bottom a:link, .table .bottom a:active, .table .bottom a:visited {
-	color: #E8E1D1;
+	color: #9A8E79;
 }
 .table .top a:hover, .table th a:hover, .topbar a:hover, .table .bottom a:hover {
-	color: #f9f7f3;
+	color: #B4A791;
 }
 .badge {
 	background: none;
@@ -148,15 +148,13 @@ div .left {
 input[type="submit"], input[type="button"] {
 	background: #ECE3D4!important;
 	color: #7c6b4f!important;
-	border: none!important;
-	border-top: 1px solid #7c6b4!important;
+	border: 1px solid #7c6b4!important;
 	text-shadow: none!important;
 }
 input[type="submit"]:hover, input[type="button"]:hover {
 	background: #E4D5C0!important;
 	color: #7c6b4f!important;
-	border: none!important;
-	border-top: 1px solid #7c6b4!important;
+	border: 1px solid #7c6b4!important;
 	text-shadow: none!important;
 }
 .footer {
