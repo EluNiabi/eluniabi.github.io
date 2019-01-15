@@ -148,10 +148,6 @@ a:hover {
 #pride .right, #pride .right_odd, #pride . right_cub {
 	background: #ECE3D4;
 }
-#editdetailspanel .table .left, #accountoptionspanel .table .left, #changepasswordpanel .table .left {
-	background none!important;
-	border-right: 1px solid #ddd7ce!important;
-}
 div .left {
 	background: #FFF6ED;
 	border: 2px solid #DDD7C6;
@@ -224,4 +220,12 @@ input:checked + .slider {
 	background: #7390ab!important;
 }
 input:checked + .slider:before {
+}
+.sub_menu {
+	background: #FFF6ED!important;
+	border: 2px solid #DDD7C6!important;
+	box-shadow: none!important;
+}
+.sub_menu_item, .sub_menu_item:hover, .sub_menu_item_selected {	
+	background: none!important;
 }
