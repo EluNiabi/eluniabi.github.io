@@ -148,17 +148,15 @@ div .left {
 input[type="submit"], input[type="button"] {
 	background: #ECE3D4!important;
 	color: #7c6b4f!important;
-	height: 23px;
 	border: none!important;
-	border-top: 1px solid #7c6b4;
+	border-top: 1px solid #7c6b4!important;
 	text-shadow: none!important;
 }
 input[type="submit"]:hover, input[type="button"]:hover {
 	background: #E4D5C0!important;
 	color: #7c6b4f!important;
-	height: 23px;
 	border: none!important;
-	border-top: 1px solid #7c6b4;
+	border-top: 1px solid #7c6b4!important;
 	text-shadow: none!important;
 }
 .footer {
