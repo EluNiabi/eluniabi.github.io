@@ -66,11 +66,12 @@ a:hover {
 .container {
 }
 .main {
-	background: #f5f5f5;
+	background: #ebe7e8;
 	box-shadow: none!important;
 	border: none;
 }
 .col-md-9 {
+	background: #f5f5f5;
 }
 #lion_image {
 }
