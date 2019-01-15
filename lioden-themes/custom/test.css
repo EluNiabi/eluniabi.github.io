@@ -125,6 +125,9 @@ a:hover {
 .table .right, td, .table .right_odd, .table .right_cub {
 	background: none;
 }
+.inner-table {
+	border: 1px solid #7c6b4f;
+}
 .inner-table .right {
 	background: #ECE3D4;
 }
