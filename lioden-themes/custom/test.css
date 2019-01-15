@@ -49,6 +49,7 @@ a:hover {
 
 	/* NAVBAR */
 .navbar-header > a > img {
+	content: url('https://eluniabi.github.io/lioden-themes/free/cupcake_logo.png');
 }
 .navbar {
 	background:#b2748d;
