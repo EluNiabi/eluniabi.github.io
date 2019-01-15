@@ -156,14 +156,14 @@ div .left {
 input[type="submit"], input[type="button"] {
 	background: #ECE3D4!important;
 	color: #7c6b4f!important;
-	border: none!important;
 	text-shadow: none!important;
+	border: 1px solid black!important;
 }
 input[type="submit"]:hover, input[type="button"]:hover {
 	background: #E4D5C0!important;
 	color: #7c6b4f!important;
-	border: none!important;
 	text-shadow: none!important;
+	border: 1px solid black!important;
 }
 .footer {
 	color: #7c6b4f;
