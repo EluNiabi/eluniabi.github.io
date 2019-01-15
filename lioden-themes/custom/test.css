@@ -24,6 +24,7 @@ a:hover {
    /* TOPBAR */
 .topbar {
 	background: #aa6581;
+	text-transform: lowercase;
 }
 .table .top a:link, .table .top a:active, .table .top a:visited, .table th a:link, .table th a:active, .table th a:visited , .topbar a:link, .topbar a:visited, .topbar a:active, .table .bottom a:link, .table .bottom a:active, .table .bottom a:visited {
 	color: #f5ffff;
@@ -101,10 +102,9 @@ a:hover {
 .table {
 	border: none;
 }
-.table .top, .table th {
+.table .top, .table th, .table .bottom  {
 	background: #aa6581;
-}
-.table .bottom {
+	text-transform: lowercase;
 }
 .table .right, td, .table .right_odd {
 }
