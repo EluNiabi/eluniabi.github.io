@@ -1,0 +1,215 @@
+	/* Niabi's Custom Themes -  */
+
+   /* NOTES */
+/* too-bright - colors need to be darkened or saturated a bit */
+
+   /* FONT IMPORT */
+@import url('https://fonts.googleapis.com/css?family=Cookie');
+
+   /* MAIN */
+body {
+	background: #f5f5f5 url('https://f271.https.cdn.softlayer.net/80F271/dal05.objectstorage.softlayer.net/v1/AUTH_b4a3a2ca-226e-4f3c-aef2-b5275f5900cc/cdn/preview/cakewebsitetemplate/images/bg-body.gif') repeat-x center top;
+	color: #9b888f;
+	font-family: Verdana;
+}
+h1, h2, h3 {
+	font-family: 'Cookie', cursive;
+}
+h1 {
+	color: #87224a;
+}
+h2, h3 {
+	color: #84284d;
+}
+a:link, a:visited, a:active {
+	color: #9b888f;
+	text-decoration: underline;
+}
+a:hover {
+	color: #dd97b3;
+	text-decoration: underline;
+}
+
+   /* TOPBAR */
+.topbar {
+	background: #b2748d;
+	text-transform: lowercase;
+}
+.table .top a:link, .table .top a:active, .table .top a:visited, .table th a:link, .table th a:active, .table th a:visited , .topbar a:link, .topbar a:visited, .topbar a:active, .table .bottom a:link, .table .bottom a:active, .table .bottom a:visited {
+	color: #f5ffff;
+	text-shadow: 1px 1px 0 #ad657d, -1px -1px 0 #ad657d, -1px 1px 0 #ad657d, 1px -1px 0 #ad657d;
+	text-transform: lowercase;
+	text-decoration: none;
+}
+.table .top a:hover, .table th a:hover, .topbar a:hover, .topbar a:hover .badge, .table .bottom a:hover {
+	color: #7c0d37;
+	text-shadow: 1px 1px 0 #f7cade, -1px -1px 0 #f7cade, -1px 1px 0 #f7cade, 1px -1px 0 #f7cade;
+	text-decoration: none;
+}
+.badge {
+	background: none!important;
+}
+
+	/* NAVBAR */
+.navbar-header > a > img {
+	content: url('https://eluniabi.github.io/lioden-themes/free/cupcake_logo.png');
+}
+.navbar {
+	background:#b2748d;
+}
+.navbar-default .navbar-nav > li > a {
+	background: url('https://f271.https.cdn.softlayer.net/80F271/dal05.objectstorage.softlayer.net/v1/AUTH_b4a3a2ca-226e-4f3c-aef2-b5275f5900cc/cdn/preview/cakewebsitetemplate/images/interface.png') no repeat -188px -361px !important;
+	height: 38px;
+	color: #f5ffff;
+	text-shadow: 1px 1px 0 #ad657d, -1px -1px 0 #ad657d, -1px 1px 0 #ad657d, 1px -1px 0 #ad657d;
+	text-transform: lowercase;
+	text-decoration: none;
+}
+.navbar-default .navbar-nav li a:hover {
+	background: none!important;
+	color: #7c0d37;
+	text-shadow: 1px 1px 0 #f7cade, -1px -1px 0 #f7cade, -1px 1px 0 #f7cade, 1px -1px 0 #f7cade;
+	text-decoration: none;
+}
+
+   /* SIDEBAR */
+.sidebar {
+	background: #ebe7e8!important;
+}
+.panel {
+	background: #f7f5f5!important;
+	border: 1px solid #dfd9db!important;
+	box-shadow: none!important;
+}
+.sidebar h3 {
+	color: #84284d;
+}
+.progress {
+	background: white;
+}
+.progress div {
+}
+.progress-bar-warning, .progress-bar-danger, .progress-bar-success, .progress-bar {
+	background: #f7cade!important;
+}
+.chatContainer {
+	background: #f7f5f5!important;
+	border: 1px solid #dfd9db!important;
+	box-shadow: none!important;
+}
+.chat_light {
+	background: none;
+	border-top: #dfd9db!important;
+}
+.chat_dark {
+	background: none;
+}
+#txtChatMessage {
+}
+
+   /* MAIN TABLES */
+.container {
+}
+.main {
+	background: none;
+	box-shadow: none!important;
+	border: none;
+}
+.col-md-9 {
+	background: #f5f5f5;
+}
+#lion_image {
+}
+#lion_image > div {
+}
+.breadcrumb {
+	background: white!important;
+	border: 1px solid #dfd9db!important;
+	box-shadow: none!important;
+}
+.breadcrumb li.active {
+}
+.table {
+	border: none;
+	border-radius: 4px;
+	overflow: hidden;
+}
+.table .top, .table th, .table .bottom  {
+	background: #b2748d;
+	text-transform: lowercase;
+}
+.table .right {
+	background: #f7f5f5;
+}
+#pride .table. right, #pride .table .right_odd, #pride .table .right_cub, {
+	background: white;
+}
+.inner-table .right {
+	background: white;
+}
+div .left {
+	background: white!important;
+	border: 1px solid #dfd9db!important;
+	box-shadow: none!important;
+}
+.table .left {
+	background: #ebe7e8!important;
+	border: none!important;
+}
+.cave-grid, .mound-grid {
+	background: white!important;
+	border: 1px solid #dfd9db!important;
+	box-shadow: none!important;
+}
+
+   /* MISC */
+.copyright {
+	position: fixed;
+	overflow: hidden;
+	padding: 5px;
+	right: 0;
+	bottom: 0;
+	z-index: 10;
+	border-radius: 5px;
+	background: ;
+}
+input[type="submit"], input[type="button"] {
+	background: #b2748d;
+	text-transform: lowercase;
+	color: #f5ffff;
+	text-shadow: 1px 1px 0 #ad657d, -1px -1px 0 #ad657d, -1px 1px 0 #ad657d, 1px -1px 0 #ad657d;
+	border: none!important;
+}
+input[type="submit"]:hover, input[type="button"]:hover {
+	background: #b2748d;
+	text-transform: lowercase;
+	color: #7c0d37;
+	text-shadow: 1px 1px 0 #f7cade, -1px -1px 0 #f7cade, -1px 1px 0 #f7cade, 1px -1px 0 #f7cade;
+	border: none!important;
+}
+select {
+	color: #9b888f;
+}
+.footer {
+	color: #9b888f;
+}
+ul.bottomlinks a:link, ul.bottomlinks a:visited, ul.bottomlinks a:active {
+	color: #9b888f;
+	text-decoration: underline;
+}
+ul.bottomlinks a:hover {
+	color: #dd97b3;
+	text-decoration: underline;
+}
+.item {
+}
+.item-header {
+}
+.slider {
+}
+.slider:before {
+}
+input:checked + .slider {
+}
+input:checked + .slider:before {
+}
