@@ -148,6 +148,10 @@ a:hover {
 #pride .right, #pride .right_odd, #pride . right_cub {
 	background: #ECE3D4;
 }
+#editdetailspanel .table .left, #accountoptionspanel .table .left, #changepasswordpanel .table .left {
+	background none;
+	border-right: 1px solid #ddd7ce;
+}
 div .left {
 	background: #FFF6ED;
 	border: 2px solid #DDD7C6;
