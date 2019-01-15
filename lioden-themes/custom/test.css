@@ -34,6 +34,7 @@ a:hover {
 }
 .badge {
 	background: none;
+	color: #988878;
 }
 
 	/* NAVBAR */
@@ -43,10 +44,10 @@ a:hover {
 	background: url('https://f271.https.cdn.softlayer.net/80F271/dal05.objectstorage.softlayer.net/v1/AUTH_b4a3a2ca-226e-4f3c-aef2-b5275f5900cc/cdn/preview/gardeningwebsitetemplate/images/bg-footer.jpg') repeat-x center bottom;
 }
 .navbar-default .navbar-nav > li > a {
-	color: #E8E1D1;
+	color: #9A8E79;
 }
 .navbar-default .navbar-nav li a:hover {
-	color: #f9f7f3;
+	color: #B4A791;
 	background: none!important;
 }
 
@@ -109,10 +110,17 @@ a:hover {
 }
 .table .top, .table th {
 	background: url('https://f271.https.cdn.softlayer.net/80F271/dal05.objectstorage.softlayer.net/v1/AUTH_b4a3a2ca-226e-4f3c-aef2-b5275f5900cc/cdn/preview/gardeningwebsitetemplate/images/bg-footer.jpg') repeat-x center bottom;
+	color: #988878;
 }
 .table .bottom {
 	background: none;
 	color: #7c6b4f;
+}
+.table .bottom a:link, .table .bottom a:visited, .table .bottom a:active {
+	color: #7390ab;
+}
+.table .bottom a:hover {
+	color: #8aa3b9;
 }
 .table .right, td, .table .right_odd, .table .right_cub {
 	background: none;
@@ -148,13 +156,13 @@ div .left {
 input[type="submit"], input[type="button"] {
 	background: #ECE3D4!important;
 	color: #7c6b4f!important;
-	border: 1px solid #7c6b4!important;
+	border: none!important;
 	text-shadow: none!important;
 }
 input[type="submit"]:hover, input[type="button"]:hover {
 	background: #E4D5C0!important;
 	color: #7c6b4f!important;
-	border: 1px solid #7c6b4!important;
+	border: none!important;
 	text-shadow: none!important;
 }
 .footer {
