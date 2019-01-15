@@ -180,6 +180,7 @@ input[type="submit"], input[type="button"] {
 input[type="submit"]:hover, input[type="button"]:hover {
 	background: #b2748d;
 	text-transform: lowercase;
+	color: #7c0d37;
 	text-shadow: 1px 1px 0 #f7cade, -1px -1px 0 #f7cade, -1px 1px 0 #f7cade, 1px -1px 0 #f7cade;
 	border: none!important;
 }
