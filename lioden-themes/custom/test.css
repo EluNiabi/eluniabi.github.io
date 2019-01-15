@@ -127,11 +127,15 @@ a:hover {
 }
 .inner-table .right {
 }
+#pride {
+	background: #FFF6ED;
+	border: 1px solid black;
+}
 #pride .left {
 	background: #DDD7C6;
 }
 #pride .right, #pride .right_odd, #pride . right_cub {
-	background: #FFF6ED!important;
+	background: #FFF6ED;
 }
 div .left {
 	background: #FFF6ED;
