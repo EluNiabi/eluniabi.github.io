@@ -167,15 +167,32 @@ div .left {
 	border-radius: 5px;
 	background: ;
 }
-textarea, input[type="text"] {
-}
 input[type="submit"], input[type="button"] {
+	background: #b2748d;
+	text-transform: lowercase;
+	color: #f5ffff;
+	text-shadow: 1px 1px 0 #ad657d, -1px -1px 0 #ad657d, -1px 1px 0 #ad657d, 1px -1px 0 #ad657d;
+	border: none!important;
 }
 input[type="submit"]:hover, input[type="button"]:hover {
+	background: #b2748d;
+	text-transform: lowercase;
+	text-shadow: 1px 1px 0 #f7cade, -1px -1px 0 #f7cade, -1px 1px 0 #f7cade, 1px -1px 0 #f7cade;
+	border: none!important;
 }
-ul.bottomlinks a:link, a:visited, a:active {
+select {
+	color: #9b888f;
+}
+.footer {
+	color: #9b888f;
+}
+ul.bottomlinks a:link, ul.bottomlinks a:visited, ul.bottomlinks a:active {
+	color: #9b888f;
+	text-decoration: underline;
 }
 ul.bottomlinks a:hover {
+	color: #dd97b3;
+	text-decoration: underline;
 }
 .item {
 }
