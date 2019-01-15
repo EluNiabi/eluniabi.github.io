@@ -15,7 +15,7 @@ h1, h2, h3 {
 h1 {
 	color: #87224a;
 }
-h2, h2 {
+h2, h3 {
 	color: #84284d;
 }
 a:link, a:visited, a:active {
@@ -90,10 +90,16 @@ a:hover {
 	background: #f7cade!important;
 }
 .chatContainer {
+	background: #f7f5f5!important;
+	border: 1px solid #dfd9db!important;
+	box-shadow: none!important;
 }
 .chat_light {
+	background: none;
+	border-top: #dfd9db;
 }
 .chat_dark {
+	background: none;
 }
 #txtChatMessage {
 }
@@ -114,6 +120,9 @@ a:hover {
 #lion_image > div {
 }
 .breadcrumb {
+	background: #f7f5f5!important;
+	border: 1px solid #dfd9db!important;
+	box-shadow: none!important;
 }
 .breadcrumb li.active {
 }
@@ -133,14 +142,17 @@ a:hover {
 	background: #f7f5f5;
 }
 .inner-table .right {
+	background: white;
 }
 div .left {
-}
-.left img {
-}
-.inner-table .left {
+	background: #f7f5f5!important;
+	border: 1px solid #dfd9db!important;
+	box-shadow: none!important;
 }
 .cave-grid, .mound-grid {
+	background: #f7f5f5!important;
+	border: 1px solid #dfd9db!important;
+	box-shadow: none!important;
 }
 
    /* MISC */
