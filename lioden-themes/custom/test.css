@@ -157,13 +157,21 @@ input[type="submit"], input[type="button"] {
 	background: #ECE3D4!important;
 	color: #7c6b4f!important;
 	text-shadow: none!important;
-	border: 1px solid black!important;
+	border: 1px solid #7c6b4f!important;
+	box-shadow: none!important;
 }
 input[type="submit"]:hover, input[type="button"]:hover {
 	background: #E4D5C0!important;
 	color: #7c6b4f!important;
 	text-shadow: none!important;
-	border: 1px solid black!important;
+	border: 1px solid #7c6b4f!important;
+	box-shadow: none!important;
+}
+.gold, .gold:hover {
+	border: 1px solid #ffe568!important;
+}
+.bad, .gold:hover {
+	border: 1px solid #ff5454!important;
 }
 .footer {
 	color: #7c6b4f;
