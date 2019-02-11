@@ -150,11 +150,10 @@ input[type="submit"] {
 	border: 1px solid #000000;
 	text-align: center;
 	color: #ffffff;
-	background: #60b99a;
-	
-	background: -moz-linear-gradient(top, #60b99a, #8acab4 100%);  
-	background: -webkit-gradient(linear, 0 0, 0 100%, from(#60b99a), to(#8acab4));  
-	text-shadow: 1px 1px 0px #2f5a4b; 
+	background: #553032;	
+	text-shadow: 1px 1px 0px #2f5a4b;
+	border-radius: 4px;
+	margin: 2px;
 }
 
 input[type="text"] {
