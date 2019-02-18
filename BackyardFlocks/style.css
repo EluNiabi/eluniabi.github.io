@@ -51,7 +51,7 @@ nav {
 	padding-right: 50px;
 	padding-left: 50px;
 	text-align: left;
-	min-height: 900px;
+	min-height: 1000px;
 	background: #e7e2dc;
 }
 table {
@@ -63,6 +63,13 @@ table {
 	margin-right: 0px;
 	border: 1px solid  #553032;
 	max-width: 670px;
+	border-spacing: 0;
+	background: #f1efeb;
+	border-radius: 4px;
+}
+#birdnav table {
+	background: none;
+	border: none;
 }
 a {
 	color: #553032;
@@ -238,6 +245,7 @@ select {
 	border: 1px solid #553032;
 	border-top: none;
 	border-bottom: none;
+	font-size: 10pt;
 }
 .left {
 	font-weight: bold;
@@ -253,4 +261,54 @@ select {
 }
 #icon:hover {
 	opacity: .75;
+}
+#player-panel a:hover {
+	text-decoration: none;
+}
+.progress-bar {
+	overflow: hidden;
+	width: 150px;
+	background: #fcfbfa;
+	border: 1px solid #d2c9be;
+	border-radius: 4px;
+	position: relative;
+	height: 15px;
+	margin-bottom: 8px;
+}
+.progress {
+	text-align: center;
+	background: #864a47;
+	color: #efcfa5;
+	height: 15px;
+}
+.progress-bar div {
+	width: 100%;
+	position: absolute;
+	text-align: center;
+	color: #000;
+	margin: 0;
+	padding: 0;
+	font-size: 7pt;
+	line-height: 15px;
+}
+#info {
+	width: 150px;
+	position: relative;
+	margin-top: 0;
+}
+#traits .left, #stats .left, #traits .right, #stats .right, #action .left {
+	width: 100px;
+}
+#action {
+	width: 250px;
+	margin-top: 0;
+}
+#shows {
+	width: 400px;
+}
+#shows td {
+	text-align: center;
+}
+.rfloat {
+	float: right;
 }

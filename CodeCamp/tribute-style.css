@@ -42,7 +42,7 @@ td {
 	margin-top: 20px;
 	border-radius: 4px;
 	min-height: 500px;
-	width: 920px;
+	width: 90%;
 	padding-top: 10px;
 	padding-bottom: 10px;
 }
@@ -85,7 +85,7 @@ h1 {
 	margin-top: 30px;
 }
 #tribute-info {
-	width: 700px;
+	width: 80%;
 	margin: auto;
 }
 h2 {
@@ -101,7 +101,7 @@ h3 {
 	font-weight: bold;
 }
 .float {
-	width: 300px;
+	width: 50%;
 	position: static;
 }
 .float-right {
