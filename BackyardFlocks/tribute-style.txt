@@ -1,0 +1,10 @@
+	<html>
+<head>
+	<link href="tribute-style.css" type="text/css" rel="stylesheet">
+	<title>Tribute Page</title>
+</head>
+
+<body>
+	Text here
+</body>
+	</html>
