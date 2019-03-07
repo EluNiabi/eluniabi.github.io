@@ -1,7 +1,79 @@
-<html>
-<head>
-</head>
+@import url('https://fonts.googleapis.com/css?family=Cinzel|Cinzel+Decorative');
 
-<body>
-</body>
-</html>
+body {
+	background: #1a1a1d;
+	margin: 0;
+	color: #4e4e50;
+	font-family: Verdana;
+	font-size: 9pt;
+}
+header {
+	margin: auto;
+	margin-top: 50px;
+	margin-bottom: 50px;
+	width: 1000px;
+	text-align: center;
+}
+.content {
+	margin: auto;
+	min-height: 500px;
+	padding: 10px;
+	width: 1000px;
+}
+footer {
+	text-align: center;
+	margin-top: 50px;
+	padding-bottom: 50px;
+	font-size: 8pt;
+}
+h1 {
+	font-family: 'Cinzel Decorative', cursive;
+	margin: 0;
+	font-size: 60pt;
+	font-weight: bold;
+	color: #c3073f;
+}
+h2 {
+	font-family: 'Cinzel Decorative', cursive;
+	margin: 0;
+	font-size: 25pt;
+	font-weight: bold;
+	color: #fff;
+}
+.content h2 {
+	font-size: 18pt;
+	padding-left: 25px;
+}
+h3 {
+	margin: 0;
+	font-size: 12pt;
+	padding-bottom: 5px;
+}
+a {
+	color: #6f2232;
+	text-decoration: none;
+}
+a:hover {
+	text-decoration: underline;
+}
+nav {
+	font-size: 15pt;
+	font-family: 'Cinzel', serif;
+	margin-top: 50px;
+}
+nav a {
+	text-decoration: none;
+	border-bottom: 2px solid rgba(0,0,0,0.0);
+	border-top: 2px solid rgba(0,0,0,0.0);
+	color: white;
+	padding-right: 10px;
+	padding-left: 10px;
+	transition: 1s border;
+}
+nav a:hover {
+	border-bottom: 2px solid #6f2232;
+	border-top: 2px solid #6f2232;
+	padding-right: 10px;
+	padding-left: 10px;
+	text-decoration: none;
+}
