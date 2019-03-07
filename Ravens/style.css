@@ -77,3 +77,21 @@ nav a:hover {
 	padding-left: 10px;
 	text-decoration: none;
 }
+button {
+	display: block;
+	border: 1px solid #c3073f;
+	border-radius: 30px;
+	background: none;
+	padding: 7px 14px;
+	margin: 5px;
+	color: white;
+	font-weight: bold;
+	cursor: pointer;
+}
+button:hover {
+	border: 1px solid #6f2232;
+}
+.disabled {
+	opacity: 0.6;
+	cursor: not-allowed;
+}
