@@ -6,16 +6,20 @@ body {
 	color: #4e4e50;
 	font-family: Verdana;
 	font-size: 9pt;
+	min-width: 1200px;
 }
 header {
 	margin: auto;
-	margin-top: 50px;
-	margin-bottom: 50px;
-	width: 1000px;
+	padding-top: 100px;
+	padding-bottom: 100px;
 	text-align: center;
+	background: url("http://1.bp.blogspot.com/-jLTk8lTzPIE/TnlKZISt5LI/AAAAAAAAAUQ/CaNWD91ljPQ/s1600/raven-background-2-747742.jpg") center;
+	background: url("http://3.bp.blogspot.com/-HLjP1ho7bK0/V5tP8fsnoiI/AAAAAAAAw2M/s_omIywa2gk-6oJzKUh1yDy-pfqzoKZKQCHM/s1600/31-raven-hd-wallpapers-backgrounds-wallpaper-abyss.jpg") center;
+	background-size: cover;
 }
 .content {
 	margin: auto;
+	margin-top: 30px;
 	min-height: 500px;
 	padding: 10px;
 	width: 1000px;
@@ -59,7 +63,11 @@ a:hover {
 nav {
 	font-size: 15pt;
 	font-family: 'Cinzel', serif;
-	margin-top: 50px;
+	margin: auto;
+	background: #1a1a1d;
+	border-top: 2px solid #1a1a1d;
+	text-align: center;
+	margin: 20px;
 }
 nav a {
 	text-decoration: none;
